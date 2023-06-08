@@ -4,6 +4,13 @@ import re
 
 
 class Extracao:
+
+    def __init__(self, nome_arquivo, year, month, day):
+        from datetime import datetime
+
+        self._nome_arquivo = nome_arquivo
+        self._datafinal = datetime(year=year, month=month, day=day)
+
     @staticmethod
     def tempo_pause(tempo):
         import time
@@ -29,48 +36,36 @@ class Extracao:
 
     pass
 
-    def salvar_arquivo(self, registro, cont):
+    def salvar_arquivo(self, registro):
 
-        nome_arquivo = f"Data_CGESP1.txt"
-
-        with open(nome_arquivo, 'a') as arquivo:
+        with open(self._nome_arquivo, 'a') as arquivo:
             arquivo.write(';'.join(registro) + '\n')
-        print(cont)
-
-    def data_final(self, year, month, day):
-        from datetime import datetime
-
-        self.datafinal = datetime(year=year, month=month, day=day)
-        return self.datafinal
 
     def executar_extracao(self):
 
-        # datafinal = datetime(year=2022, month=1, day=1)
         hoje = datetime.now()
-        cont = 0
 
-        while hoje > self.data_final(2022,1,1):
-            dia = datetime.strftime(hoje, "%d")
-            mes = datetime.strftime(hoje, "%m")
-            ano = datetime.strftime(hoje, "%y")
+        while hoje > self._datafinal:
+            dia_sl = datetime.strftime(hoje, "%d")
+            mes_sl = datetime.strftime(hoje, "%m")
+            ano_sl = datetime.strftime(hoje, "%y")
 
             html = self.conect_requisicao(
-                "https://www.cgesp.org/v3/alagamentos.jsp?dataBusca={0}%2F{1}%2F20{2}&enviaBusca=Buscar".format(dia,
-                                                                                                                mes,
-                                                                                                                ano))
+                "https://www.cgesp.org/v3/alagamentos.jsp?dataBusca={0}%2F{1}%2F20{2}&enviaBusca=Buscar".format(dia_sl,
+                                                                                                                mes_sl,
+                                                                                                                ano_sl))
             if html == 'Stop-Work':
                 continue
 
             soup = BeautifulSoup(html, 'html.parser')
             classe_html = soup.find('div', class_="content")
             texto_div = classe_html.text.strip()
-
-            data = '20{0}.{1}.{2}'.format(ano, mes, dia)
+            data = '20{0}.{1}.{2}'.format(ano_sl, mes_sl, dia_sl)
             hoje -= timedelta(days=1)
 
             if texto_div == 'Não há registros de alagemtnos para essa data.':
                 continue
-            cont += 1
+
             texto_geral = soup.find_all('table', {'class': re.compile('tb-pontos-de-alagamentos')})
             bairro_texto = classe_html.find_all('td',
                                                 {'class': re.compile('bairro arial-bairros-alag linha-pontilhada')})
@@ -87,12 +82,43 @@ class Extracao:
 
                     registro = [bairro, data, icone, hr_inicio, avenida]
 
-                    self.salvar_arquivo(registro, cont)
+                    self.salvar_arquivo(registro)
 
-    
+
+class LeituraArquivo:
+
+    def __init__(self, nameFile):
+        self._nameFile = nameFile
+        self._count = 0
+        with open(nameFile) as data:
+            self._data = data.readlines()
+
+    def __len__(self):
+        return len(self._data)
+
+    def __iter__(self):
+        return self
+
+    def __next__(self):
+        try:
+            element = self._data[self._count]
+        except IndexError as ie:
+            self._count = 0
+            raise StopIteration
+        self._count += 1
+        return element
 
 
 if __name__ == '__main__':
-    etx = Extracao()
-    etx.executar_extracao()
+    name = 'Data_CGESP1.txt'
+    ano = 2022
+    mes = 1
+    dia = 1
+    #etx = Extracao(name, ano, mes, dia)
+    #etx.executar_extracao()
+    tt = LeituraArquivo(name)
+    c= 0
+    for file in tt:
+        print(file)
+
     pass

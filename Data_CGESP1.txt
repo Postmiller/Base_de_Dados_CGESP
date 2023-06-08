@@ -1,0 +1,1283 @@
+Santana;2023.05.31;Inativo Transitável;06:59;CV EVARISTO COMOLATTI
+Sé;2023.05.31;Inativo Transitável;13:07;R ROBERTO SIMONSEN
+Lapa;2023.05.31;Inativo Transitável;07:48;AV ENG BILLINGS
+Pinheiros;2023.05.31;Inativo Transitável;12:33;R ANTILHAS
+Itaquera;2023.05.31;Inativo Transitável;06:03;AV JACU PESSEGO N TRABALHADORES
+Casa Verde;2023.04.18;Inativo Intransitável;10:03;R BARTHOLOMEU DO CANTO
+Casa Verde;2023.04.18;Inativo Intransitável;10:57;AV ORDEM E PROGRESSO
+Freguesia do Ó;2023.04.18;Inativo Intransitável;09:53;AV GAL EDGAR FACO
+Vila Maria/ Vila Guilherme;2023.04.18;Inativo Intransitável;10:11;R CEL MARQUES RIBEIRO
+Vila Maria/ Vila Guilherme;2023.04.18;Inativo Intransitável;10:20;AV GUILHERME
+Vila Maria/ Vila Guilherme;2023.04.18;Inativo Intransitável;10:37;AV EDU CHAVES
+Vila Maria/ Vila Guilherme;2023.04.18;Inativo Intransitável;11:14;MARGINAL TIETE
+Pirituba/Jaraguá;2023.04.18;Inativo Intransitável;09:20;PSS FANDI CHAQUIB KALIL
+Pirituba/Jaraguá;2023.04.18;Inativo Transitável;10:40;ES DE LIGAÇÃO
+Pirituba/Jaraguá;2023.04.18;Inativo Transitável;11:35;AV RAIMUNDO PEREIRA DE MAGALHAES
+Santana;2023.04.18;Inativo Intransitável;09:52;AV GAL ATALIBA LEONEL
+Sé;2023.04.18;Inativo Intransitável;09:35;R MANOEL DUTRA
+Sé;2023.04.18;Inativo Transitável;09:38;R BRIG TOBIAS
+Sé;2023.04.18;Inativo Intransitável;09:51;PQ ANHANGABAU
+Sé;2023.04.18;Inativo Intransitável;10:12;AV MERCURIO
+Sé;2023.04.18;Inativo Intransitável;10:27;CV EVARISTO COMOLATTI
+Sé;2023.04.18;Inativo Transitável;14:57;AV MERCURIO
+Butantã;2023.04.18;Inativo Intransitável;09:15;TV IRMA DOLORES BALDI
+Butantã;2023.04.18;Inativo Transitável;09:54;AV VITAL BRASIL
+Butantã;2023.04.18;Inativo Intransitável;16:47;AV PROF FRANCISCO MORATO
+Butantã;2023.04.18;Inativo Intransitável;16:48;AV PROF FRANCISCO MORATO
+Butantã;2023.04.18;Inativo Intransitável;17:05;AV JULES RIMET
+Lapa;2023.04.18;Inativo Intransitável;09:40;R ADALBERTO KEMENY
+Lapa;2023.04.18;Inativo Intransitável;09:43;R FRANCISCO LUIZ DE SOUZA JUNIOR
+Lapa;2023.04.18;Inativo Intransitável;09:45;R VLADIMIR HERZOG
+Lapa;2023.04.18;Inativo Intransitável;09:55;PC PASCOAL MARTINS
+Pinheiros;2023.04.18;Inativo Transitável;09:29;PC APECATU
+Itaquera;2023.04.18;Inativo Intransitável;17:18;AV ITAQUERA
+Mooca;2023.04.18;Inativo Intransitável;09:37;R RUBINO DE OLIVEIRA
+Capela do Socorro;2023.04.18;Inativo Transitável;09:37;AV PRES JOAO GOULART
+Santo Amaro;2023.04.18;Inativo Transitável;09:17;AV SANTO AMARO
+Santo Amaro;2023.04.18;Inativo Transitável;16:52;AV DAS NACOES UNIDAS
+Santo Amaro;2023.04.18;Inativo Intransitável;17:00;AV IBIRAPUERA
+Santo Amaro;2023.04.18;Inativo Intransitável;17:05;AV IBIRAPUERA
+Vila Mariana;2023.04.18;Inativo Intransitável;17:14;AV JOSE MARIA WHITAKER
+Vila Mariana;2023.04.18;Inativo Intransitável;17:27;AV RUBEM BERTA
+Pirituba/Jaraguá;2023.04.14;Inativo Intransitável;09:04;AV RAIMUNDO PEREIRA DE MAGALHAES
+Pirituba/Jaraguá;2023.04.14;Inativo Transitável;09:14;AV RAIMUNDO PEREIRA DE MAGALHAES
+Sé;2023.04.14;Inativo Transitável;09:17;VEL PRES JOAO GOULART
+Lapa;2023.04.14;Inativo Intransitável;09:03;R VLADIMIR HERZOG
+Pinheiros;2023.04.14;Inativo Transitável;09:57;R ESTADOS UNIDOS
+Itaquera;2023.04.14;Inativo Intransitável;09:15;AV ITAQUERA
+Mooca;2023.04.14;Inativo Transitável;09:24;AV CELSO GARCIA
+Mooca;2023.04.14;Inativo Transitável;09:48;MARGINAL TIETE
+Mooca;2023.04.14;Inativo Intransitável;10:09;AV CELSO GARCIA
+Itaquera;2023.03.31;Inativo Intransitável;13:52;AV ITAQUERA
+Itaquera;2023.03.31;Inativo Transitável;13:54;AV ARICANDUVA
+Itaquera;2023.03.31;Inativo Transitável;14:46;AV ITAQUERA
+Mooca;2023.03.31;Inativo Transitável;14:48;R ENG CESTARI
+M'Boi Mirim;2023.03.31;Inativo Transitável;14:10;AV GUARAPIRANGA
+Santo Amaro;2023.03.31;Inativo Transitável;14:02;AV DAS NACOES UNIDAS
+Itaquera;2023.03.29;Inativo Intransitável;16:41;AV ITAQUERA
+Vila Mariana;2023.03.29;Inativo Intransitável;16:27;AV ITACIRA
+Santo Amaro;2023.03.27;Inativo Intransitável;02:15;AV DAS NACOES UNIDAS
+Lapa;2023.03.20;Inativo Intransitável;17:35;AV MOFARREJ
+Pirituba/Jaraguá;2023.03.14;Inativo Intransitável;08:20;ES TURISTICA DO JARAGUA
+Santana;2023.03.14;Inativo Intransitável;08:56;AV CRUZEIRO DO SUL
+Santana;2023.03.14;Inativo Transitável;08:59;AV CRUZEIRO DO SUL
+Santana;2023.03.14;Inativo Transitável;09:02;AV CRUZEIRO DO SUL
+Lapa;2023.03.14;Inativo Intransitável;05:58;R VLADIMIR HERZOG
+Lapa;2023.03.14;Inativo Intransitável;15:37;AV POMPEIA
+Lapa;2023.03.14;Inativo Intransitável;15:53;R VENANCIO AIRES
+Lapa;2023.03.14;Inativo Intransitável;16:27;PC PASCOAL MARTINS
+Itaquera;2023.03.14;Inativo Intransitável;15:28;AV ITAQUERA
+Itaquera;2023.03.14;Inativo Intransitável;15:43;R PDE VIEGAS DE MENEZES
+Penha;2023.03.14;Inativo Intransitável;15:14;R DR LUIZ AYRES
+Capela do Socorro;2023.03.14;Inativo Transitável;05:06;AV ATLANTICA
+Vila Maria/ Vila Guilherme;2023.03.13;Inativo Transitável;16:02;AV GUILHERME
+Santana;2023.03.13;Inativo Intransitável;15:23;R PROF MILTON RODRIGUES
+Santana;2023.03.13;Inativo Transitável;15:50;R CEL ANTONIO DE CARVALHO
+Santana;2023.03.13;Inativo Transitável;15:50;R CEL ANTONIO DE CARVALHO
+Santana;2023.03.13;Inativo Intransitável;15:57;AV CRUZEIRO DO SUL
+Santana;2023.03.13;Inativo Intransitável;15:58;AV DO ESTADO
+Santana;2023.03.13;Inativo Intransitável;17:17;AV SANTOS DUMONT
+Sé;2023.03.13;Inativo Transitável;15:19;PC FERNANDO COSTA
+Sé;2023.03.13;Inativo Transitável;15:25;AV PACAEMBU
+Sé;2023.03.13;Inativo Intransitável;16:25;AV MERCURIO
+Sé;2023.03.13;Inativo Intransitável;16:30;MARGINAL TIETE CBAS CENTRAL
+Sé;2023.03.13;Inativo Transitável;16:45;R DJALMA DUTRA
+Sé;2023.03.13;Inativo Intransitável;16:46;MARGINAL TIETE CBAS CENTRAL
+Sé;2023.03.13;Inativo Transitável;18:58;R OSCAR HORTA
+Butantã;2023.03.13;Inativo Intransitável;16:05;AV MAGALHAES DE CASTRO
+Butantã;2023.03.13;Inativo Intransitável;16:53;PC ALFREDO GOMES
+Butantã;2023.03.13;Inativo Intransitável;16:54;PC ALFREDO GOMES
+Lapa;2023.03.13;Inativo Transitável;17:48;R FEDERACAO PAULISTA DE FUTEBOL
+Pinheiros;2023.03.13;Inativo Transitável;09:14;R JAPIACOIA
+Pinheiros;2023.03.13;Inativo Transitável;15:36;R HENRIQUE SCHAUMANN
+Pinheiros;2023.03.13;Inativo Intransitável;16:50;R BRIG HAROLDO VELOSO
+Aricanduva/ Vila Formosa;2023.03.13;Inativo Intransitável;15:58;AV MONTEMAGNO
+Aricanduva/ Vila Formosa;2023.03.13;Inativo Intransitável;16:43;R COMEN GIL PINHEIRO
+Aricanduva/ Vila Formosa;2023.03.13;Inativo Transitável;17:19;AV DR EDUARDO COTCHING
+Itaquera;2023.03.13;Inativo Intransitável;15:05;AV ITAQUERA
+Itaquera;2023.03.13;Inativo Intransitável;16:08;R PADRE VIEGAS DE MENEZES
+Itaquera;2023.03.13;Inativo Intransitável;16:32;AV ITAQUERA
+Mooca;2023.03.13;Inativo Intransitável;15:55;R MELO FREIRE
+Mooca;2023.03.13;Inativo Intransitável;16:01;R ADELINO DE ALMEIDA CASTILHO
+Mooca;2023.03.13;Inativo Intransitável;16:01;R ADELINO DE ALMEIDA CASTILHO
+Mooca;2023.03.13;Inativo Intransitável;16:03;R MARIA DOMITILA
+Mooca;2023.03.13;Inativo Intransitável;16:08;R MONTE SERRAT
+Mooca;2023.03.13;Inativo Intransitável;16:18;AV ALCANTARA MACHADO
+Penha;2023.03.13;Inativo Intransitável;15:52;AV CD.DE FRONTIN
+Penha;2023.03.13;Inativo Intransitável;15:57;AV CD.DE FRONTIN
+São Mateus;2023.03.13;Inativo Intransitável;16:29;AV ARICANDUVA
+São Mateus;2023.03.13;Inativo Intransitável;16:48;AV ARICANDUVA
+São Mateus;2023.03.13;Inativo Intransitável;16:52;AV ARICANDUVA
+Vila Prudente;2023.03.13;Inativo Intransitável;15:31;AV PROF LUIZ IGNACIO ANHAIA MELLO
+Vila Prudente;2023.03.13;Inativo Intransitável;15:39;AV VILA EMA
+Vila Prudente;2023.03.13;Inativo Intransitável;15:41;PTE DO RIO TAMANDUATEI
+Vila Prudente;2023.03.13;Inativo Intransitável;15:51;AV PROF LUIZ IGNACIO ANHAIA MELLO
+Vila Prudente;2023.03.13;Inativo Intransitável;16:00;AV FRANCISCO FALCONI
+Vila Prudente;2023.03.13;Inativo Intransitável;16:38;AV PROF LUIZ IGNACIO ANHAIA MELLO
+Vila Prudente;2023.03.13;Inativo Intransitável;16:40;AV PROF LUIZ IGNACIO ANHAIA MELLO
+M'Boi Mirim;2023.03.13;Inativo Transitável;14:49;R MARGINAL (JD MARIANI)
+M'Boi Mirim;2023.03.13;Inativo Transitável;14:58;R CARMEM ESCABIA MOTTA COELHO
+M'Boi Mirim;2023.03.13;Inativo Transitável;14:59;ES M'BOI MIRIM
+M'Boi Mirim;2023.03.13;Inativo Transitável;15:02;ES M'BOI MIRIM
+M'Boi Mirim;2023.03.13;Inativo Intransitável;15:15;AV ELLIS MASS
+Santo Amaro;2023.03.13;Inativo Transitável;15:12;AV JORN ROBERTO MARINHO
+Santo Amaro;2023.03.13;Inativo Transitável;15:19;AV INTERLAGOS
+Santo Amaro;2023.03.13;Inativo Intransitável;15:21;AV INTERLAGOS
+Santo Amaro;2023.03.13;Inativo Transitável;15:25;MARGINAL PINHEIROS INTCB
+Santo Amaro;2023.03.13;Inativo Transitável;15:27;AV DAS NACOES UNIDAS
+Santo Amaro;2023.03.13;Inativo Transitável;15:44;AV DAS NACOES UNIDAS
+Santo Amaro;2023.03.13;Inativo Transitável;15:55;AV JORN ROBERTO MARINHO
+Santo Amaro;2023.03.13;Inativo Transitável;16:04;AV DAS NACOES UNIDAS
+Santo Amaro;2023.03.13;Inativo Intransitável;16:52;AV DAS NACOES UNIDAS
+Santo Amaro;2023.03.13;Inativo Intransitável;16:57;AV DAS NACOES UNIDAS
+Ipiranga;2023.03.13;Inativo Transitável;05:59;R PEDROSO LOUSANO
+Jabaquara;2023.03.13;Inativo Intransitável;15:15;R JORGE DUPRAT FIGUEIREDO
+Vila Mariana;2023.03.13;Inativo Transitável;15:25;AV PROF ABRAAO DE MORAIS
+Vila Mariana;2023.03.13;Inativo Transitável;15:25;AV PROF ABRAAO DE MORAIS
+Vila Mariana;2023.03.13;Inativo Transitável;15:25;AV DOS BANDEIRANTES
+Vila Mariana;2023.03.13;Inativo Transitável;16:11;AV VINTE E TRES DE MAIO
+Vila Mariana;2023.03.13;Inativo Transitável;16:42;AV IBIJAU
+Vila Maria/ Vila Guilherme;2023.03.12;Inativo Intransitável;17:03;AV BANDEIRANTES DO SUL
+Pinheiros;2023.03.12;Inativo Transitável;17:33;AV BRIG FARIA LIMA
+Itaquera;2023.03.12;Inativo Intransitável;14:11;AV ITAQUERA
+Penha;2023.03.12;Inativo Intransitável;15:49;AV GOV CARVALHO PINTO
+Butantã;2023.03.11;Inativo Intransitável;17:30;AV PROF FRANCISCO MORATO
+Butantã;2023.03.11;Inativo Intransitável;17:32;AV PROF FRANCISCO MORATO
+Butantã;2023.03.11;Inativo Intransitável;17:36;AV DEP JACOB SALVADOR ZVEIBIL
+Pinheiros;2023.03.11;Inativo Intransitável;18:27;R BRIG HAROLDO VELOSO
+Sapopemba;2023.03.11;Inativo Intransitável;16:27;TRAVESSA HILARION QUINTANA
+Vila Prudente;2023.03.11;Inativo Intransitável;16:16;AV PROF LUIZ IGNACIO DE ANHAIA MELLO
+Vila Prudente;2023.03.11;Inativo Intransitável;16:22;CV SEN ANTONIO E. DE BARROS FILHO
+Vila Prudente;2023.03.11;Inativo Intransitável;17:01;AV PROF LUIZ IGNACIO ANHAIA MELLO
+Freguesia do Ó;2023.03.10;Inativo Intransitável;15:32;R MATEUS MASCARENHAS
+Vila Maria/ Vila Guilherme;2023.03.10;Inativo Transitável;14:45;AV SANATORIO
+Vila Maria/ Vila Guilherme;2023.03.10;Inativo Intransitável;14:51;R CHICO PONTES
+Vila Maria/ Vila Guilherme;2023.03.10;Inativo Intransitável;15:01;AV SANATORIO
+Santana;2023.03.10;Inativo Intransitável;15:00;AV DO ESTADO
+Santana;2023.03.10;Inativo Transitável;15:34;MARGINAL TIETE EXPRESSA
+Santana;2023.03.10;Inativo Transitável;15:39;MARGINAL TIETE EXPRESSA
+Sé;2023.03.10;Inativo Intransitável;13:14;R MANOEL DUTRA
+Sé;2023.03.10;Inativo Intransitável;14:41;PC QUATORZE BIS
+Sé;2023.03.10;Inativo Intransitável;14:46;R MANOEL DUTRA
+Sé;2023.03.10;Inativo Intransitável;14:50;AV RANGEL PESTANA
+Sé;2023.03.10;Inativo Transitável;14:50;AV PRES CASTELO BRANCO
+Sé;2023.03.10;Inativo Transitável;14:52;AV PRES CASTELO BRANCO
+Sé;2023.03.10;Inativo Intransitável;14:59;AV PRES CASTELO BRANCO
+Sé;2023.03.10;Inativo Transitável;15:21;PC PASCOAL MARTINS
+Sé;2023.03.10;Inativo Intransitável;15:24;R S PAULO
+Sé;2023.03.10;Inativo Intransitável;15:45;PC PASCOAL MARTINS
+Sé;2023.03.10;Inativo Transitável;15:54;R CARLOS GARCIA
+Sé;2023.03.10;Inativo Transitável;15:59;AV PRES CASTELO BRANCO
+Sé;2023.03.10;Inativo Transitável;16:00;R DA CANTAREIRA
+Sé;2023.03.10;Inativo Intransitável;16:01;MARGINAL TIETE CENTRAL
+Sé;2023.03.10;Inativo Transitável;16:06;VEL PRES JOAO GOULART
+Butantã;2023.03.10;Inativo Intransitável;14:58;AV PROF FRANCISCO MORATO
+Butantã;2023.03.10;Inativo Intransitável;15:08;AV PROF FRANCISCO MORATO
+Butantã;2023.03.10;Inativo Intransitável;15:16;AV PROF FRANCISCO MORATO
+Butantã;2023.03.10;Inativo Intransitável;16:57;AV PROF FRANCISCO MORATO
+Lapa;2023.03.10;Inativo Intransitável;14:46;AV ORDEM E PROGRESSO
+Lapa;2023.03.10;Inativo Transitável;14:57;PC PASCOAL MARTINS
+Lapa;2023.03.10;Inativo Intransitável;15:48;AV ORDEM E PROGRESSO
+Pinheiros;2023.03.10;Inativo Intransitável;14:46;R JOAO MOURA
+Pinheiros;2023.03.10;Inativo Intransitável;15:04;R HENRIQUE SCHAUMANN
+Pinheiros;2023.03.10;Inativo Intransitável;15:22;AV DRA RUTH CARDOSO
+Aricanduva/ Vila Formosa;2023.03.10;Inativo Transitável;14:00;R CARLOS SILVA
+Itaquera;2023.03.10;Inativo Intransitável;14:14;AV ITAQUERA
+Itaquera;2023.03.10;Inativo Intransitável;16:46;AV LIDER
+Mooca;2023.03.10;Inativo Transitável;15:04;R HIPODROMO
+Mooca;2023.03.10;Inativo Intransitável;15:10;VD BRESSER
+Mooca;2023.03.10;Inativo Intransitável;15:32;R GUARAPUAVA
+Mooca;2023.03.10;Inativo Transitável;18:30;R DR JOAO ALVES DE LIMA
+Penha;2023.03.10;Inativo Intransitável;18:26;AV CELSO GARCIA
+Vila Prudente;2023.03.10;Inativo Transitável;15:07;AV PROF LUIZ IGNACIO ANHAIA MELLO
+Vila Prudente;2023.03.10;Inativo Intransitável;15:13;AV DO ESTADO
+Parelheiros;2023.03.10;Inativo Intransitável;15:10;ES ECOTURISTICA DE PARELHEIROS
+Santo Amaro;2023.03.10;Inativo Intransitável;13:41;AV DAS NACOES UNIDAS
+Santo Amaro;2023.03.10;Inativo Transitável;13:42;AV INTERLAGOS
+Santo Amaro;2023.03.10;Inativo Intransitável;13:47;R PROF ANISIO GONCALVES MARECO
+Santo Amaro;2023.03.10;Inativo Intransitável;13:55;AV DAS NACOES UNIDAS
+Santo Amaro;2023.03.10;Inativo Intransitável;14:07;AV ROQUE PETRONI JUNIOR
+Santo Amaro;2023.03.10;Inativo Intransitável;14:33;R ELIAS ANTONIO ZOGBI
+Santo Amaro;2023.03.10;Inativo Intransitável;14:47;AV VITOR MANZINI
+Santo Amaro;2023.03.10;Inativo Intransitável;15:29;AV DAS NACOES UNIDAS
+Santo Amaro;2023.03.10;Inativo Intransitável;15:42;AV DAS NACOES UNIDAS
+Santo Amaro;2023.03.10;Inativo Transitável;15:45;AV DAS NACOES UNIDAS
+Vila Mariana;2023.03.10;Inativo Transitável;15:22;AV VINTE E TRES DE MAIO
+Vila Maria/ Vila Guilherme;2023.03.09;Inativo Intransitável;15:07;AV GUILHERME
+Sé;2023.03.09;Inativo Transitável;14:34;MARGINAL TIETE CBAS CENTRAL
+Sé;2023.03.09;Inativo Intransitável;15:04;R PRES BATISTA PEREIRA
+Sé;2023.03.09;Inativo Transitável;15:36;MARGINAL TIETE CBAS CENTRAL
+Sé;2023.03.09;Inativo Transitável;18:15;R PEDRO VICENTE
+Butantã;2023.03.09;Inativo Intransitável;14:54;AV MAGALHAES DE CASTRO
+Lapa;2023.03.09;Inativo Intransitável;14:38;AV ORDEM E PROGRESSO
+Lapa;2023.03.09;Inativo Transitável;14:47;PC PASCOAL MARTINS
+Pinheiros;2023.03.09;Inativo Transitável;14:39;R HENRIQUE SCHAUMANN
+Aricanduva/ Vila Formosa;2023.03.09;Inativo Intransitável;14:49;R PEDRO MALAQUIAS
+Mooca;2023.03.09;Inativo Intransitável;14:45;AV ALCANTARA MACHADO
+Mooca;2023.03.09;Inativo Intransitável;14:45;AV ALCANTARA MACHADO
+Mooca;2023.03.09;Inativo Intransitável;15:30;AV ABEL FERREIRA
+Sapopemba;2023.03.09;Inativo Intransitável;15:30;TRAVESSA HILARION QUINTANA
+Vila Prudente;2023.03.09;Inativo Intransitável;14:48;AV PROF LUIZ IGNACIO DE ANHAIA MELLO
+Vila Prudente;2023.03.09;Inativo Intransitável;14:59;AV FRANCISCO FALCONI
+Vila Prudente;2023.03.09;Inativo Intransitável;15:06;AV JACINTO MENEZES PALHARES
+Sé;2023.03.08;Inativo Intransitável;17:23;R MANOEL DUTRA
+Sé;2023.03.08;Inativo Transitável;17:33;AV RANGEL PESTANA
+Butantã;2023.03.08;Inativo Intransitável;18:34;MARGINAL PINHEIROS
+Butantã;2023.03.08;Inativo Intransitável;18:41;MARGINAL PINHEIROS CBINT
+Pinheiros;2023.03.08;Inativo Transitável;16:34;AV FARIA LIMA
+Pinheiros;2023.03.08;Inativo Transitável;17:22;AV CIDADE JARDIM
+Pinheiros;2023.03.08;Inativo Intransitável;17:24;AV NOVE DE JULHO
+Pinheiros;2023.03.08;Inativo Transitável;17:31;AV BRASIL
+Pinheiros;2023.03.08;Inativo Intransitável;18:03;TN MAX FEFFER
+Itaquera;2023.03.08;Inativo Intransitável;17:00;R CAROLINA FONSECA
+Itaquera;2023.03.08;Inativo Intransitável;17:00;AV DR FRANCISCO MUNHOZ FILHO
+Itaquera;2023.03.08;Inativo Intransitável;17:00;R FLOR DA ESPERANÇA
+Itaquera;2023.03.08;Inativo Intransitável;17:00;AV JOSÉ PINHEIRO BORGES
+Itaquera;2023.03.08;Inativo Intransitável;17:05;AV PADRE VIEGAS DE MENEZES
+Itaquera;2023.03.08;Inativo Intransitável;17:21;R PDE VIEGAS DE MENEZES
+Itaquera;2023.03.08;Inativo Intransitável;17:25;AV ITAQUERA
+Mooca;2023.03.08;Inativo Transitável;17:55;R JOSE DE ALENCAR (BRAS)
+São Miguel Paulista;2023.03.08;Inativo Intransitável;17:06;R ASDRUBAL
+São Miguel Paulista;2023.03.08;Inativo Intransitável;17:16;R AMERICO SUGAI
+São Miguel Paulista;2023.03.08;Inativo Transitável;17:50;AV MAL TITO
+São Miguel Paulista;2023.03.08;Inativo Intransitável;18:14;R AMERICO SUGAI
+Penha;2023.03.08;Inativo Intransitável;17:18;AV S MIGUEL
+Penha;2023.03.08;Inativo Intransitável;17:52;AV CELSO GARCIA
+São Mateus;2023.03.08;Inativo Intransitável;18:37;AV ARICANDUVA
+Vila Prudente;2023.03.08;Inativo Intransitável;17:10;AV PROF LUIZ IGNACIO ANHAIA MELLO
+Capela do Socorro;2023.03.08;Inativo Intransitável;17:41;AV JOAO DE BARROS
+M'Boi Mirim;2023.03.08;Inativo Transitável;18:11;R AGAMENON PEREIRA DA SILVA
+Santo Amaro;2023.03.08;Inativo Transitável;17:19;MARGINAL PINHEIROS
+Santo Amaro;2023.03.08;Inativo Transitável;17:32;R CENTRO AFRICANA
+Santo Amaro;2023.03.08;Inativo Intransitável;17:36;AV DAS NACOES UNIDAS
+Santo Amaro;2023.03.08;Inativo Intransitável;17:55;AV INTERLAGOS
+Santo Amaro;2023.03.08;Inativo Intransitável;18:05;AV DAS NACOES UNIDAS
+Santo Amaro;2023.03.08;Inativo Transitável;19:57;AV JOAO DORIA
+Vila Mariana;2023.03.08;Inativo Transitável;17:06;AV DOS BANDEIRANTES
+Vila Mariana;2023.03.08;Inativo Transitável;17:16;AV DOS BANDEIRANTES
+Vila Mariana;2023.03.08;Inativo Transitável;17:25;R CLAES BERCHEM
+Vila Mariana;2023.03.08;Inativo Intransitável;17:32;AV VINTE E TRES DE MAIO
+Vila Mariana;2023.03.08;Inativo Transitável;17:32;AV DOS BANDEIRANTES
+Vila Mariana;2023.03.08;Inativo Intransitável;17:45;CV AYRTON SENNA
+Sé;2023.03.03;Inativo Intransitável;17:55;R PRES BATISTA PEREIRA
+Cidade Ademar;2023.03.03;Inativo Intransitável;17:00;AV SENADOR TEOTONIO VILELA
+Campo Limpo;2023.03.03;Inativo Intransitável;19:19;R MARIA BLANCHARD
+Lapa;2023.02.28;Inativo Intransitável;16:34;R VLADIMIR HERZOG
+Ermelino Matarazzo;2023.02.28;Inativo Intransitável;15:58;R ASDRUBAL
+Itaquera;2023.02.28;Inativo Intransitável;14:15;AV ITAQUERA
+Itaquera;2023.02.28;Inativo Intransitável;16:30;AV LIDER
+São Miguel Paulista;2023.02.28;Inativo Intransitável;15:21;R ENG JOSE CRUZ DE OLIVEIRA
+Sé;2023.02.24;Inativo Transitável;12:41;R HERCULES FLORENCE
+Pinheiros;2023.02.24;Inativo Transitável;19:29;R ESTADOS UNIDOS
+São Mateus;2023.02.24;Inativo Intransitável;05:21;AV JACU PESSEGO N TRABALHADORES
+Casa Verde;2023.02.23;Inativo Transitável;16:30;R MATEUS MASCARENHAS
+Vila Maria/ Vila Guilherme;2023.02.23;Inativo Intransitável;16:04;AV SANATORIO
+Lapa;2023.02.23;Inativo Transitável;15:20;AV ENG BILLINGS
+Lapa;2023.02.23;Inativo Intransitável;16:25;R VLADIMIR HERZOG
+Lapa;2023.02.23;Inativo Transitável;17:28;MARGINAL TIETE CBAS EXPRESSA
+Pinheiros;2023.02.23;Inativo Intransitável;17:43;R BRIG HAROLDO VELOSO
+Cidade Tiradentes;2023.02.23;Inativo Intransitável;16:10;R INÁCIO MONTEIRO
+Itaquera;2023.02.23;Inativo Transitável;16:50;ES ITAQUERA GUAIANASES
+Itaquera;2023.02.23;Inativo Intransitável;17:31;R TAPURAÍBA
+Itaim Paulista;2023.02.23;Inativo Transitável;15:00;R ITAJUIBE
+São Miguel Paulista;2023.02.23;Inativo Intransitável;16:00;AV COROA DE FRADE
+São Mateus;2023.02.23;Inativo Intransitável;17:59;AV JACU PESSEGO N TRABALHADORES
+Santo Amaro;2023.02.23;Inativo Intransitável;14:11;AV INTERLAGOS
+Santo Amaro;2023.02.23;Inativo Intransitável;14:14;AV VITOR MANZINI
+Santo Amaro;2023.02.23;Inativo Transitável;14:23;R ANA MARGARIDA DAS DORES
+Santo Amaro;2023.02.23;Inativo Intransitável;14:38;AV ROQUE PETRONI JUNIOR
+Santo Amaro;2023.02.23;Inativo Intransitável;14:38;AV ROQUE PETRONI JUNIOR
+Santo Amaro;2023.02.23;Inativo Transitável;14:42;AV SARG LOURIVAL ALVES DE SOUZA
+Santo Amaro;2023.02.23;Inativo Intransitável;15:17;AV DAS NACOES UNIDAS
+Santo Amaro;2023.02.23;Inativo Intransitável;15:30;AV VER JOÃO DE LUCA
+Santo Amaro;2023.02.23;Inativo Intransitável;15:32;AV JORN ROBERTO MARINHO
+Santo Amaro;2023.02.23;Inativo Transitável;15:45;MARGINAL PINHEIROS INTCB
+Vila Mariana;2023.02.23;Inativo Intransitável;14:02;R DR HABERBECK BRANDAO
+Vila Mariana;2023.02.23;Inativo Transitável;14:08;AV IBIRAPUERA
+Vila Mariana;2023.02.23;Inativo Intransitável;14:29;AV STO AMARO
+Lapa;2023.02.22;Inativo Transitável;14:51;R PALESTRA ITALIA
+São Mateus;2023.02.22;Inativo Intransitável;08:46;AV JACU PESSEGO N TRABALHADORES
+Sé;2023.02.21;Inativo Transitável;01:57;MARGINAL TIETE CBAS EXPRESSA
+Sé;2023.02.21;Inativo Intransitável;19:01;R MANOEL DUTRA
+Lapa;2023.02.21;Inativo Intransitável;18:30;AV POMPEIA
+Lapa;2023.02.21;Inativo Intransitável;18:36;AV POMPEIA
+Itaquera;2023.02.21;Inativo Transitável;16:12;AV ITAQUERA
+Mooca;2023.02.21;Inativo Intransitável;23:20;AV CELSO GARCIA
+Penha;2023.02.21;Inativo Intransitável;22:05;R DR LUIZ AYRES
+Penha;2023.02.21;Inativo Intransitável;22:08;R TRES (V MAT)
+M'Boi Mirim;2023.02.21;Inativo Transitável;19:46;ES GUAVIRITUBA
+Santo Amaro;2023.02.21;Inativo Intransitável;18:53;AV DAS NACOES UNIDAS
+Santo Amaro;2023.02.21;Inativo Intransitável;19:10;AV ROQUE PETRONI JUNIOR
+Santo Amaro;2023.02.21;Inativo Intransitável;19:11;AV DAS NACOES UNIDAS
+Santo Amaro;2023.02.21;Inativo Transitável;19:15;AV STO AMARO
+Santo Amaro;2023.02.21;Inativo Intransitável;19:18;MARGINAL PINHEIROS INTCB
+Vila Maria/ Vila Guilherme;2023.02.20;Inativo Intransitável;17:44;R LUCAS DE FREITAS AZEVEDO
+Santana;2023.02.20;Inativo Intransitável;17:55;AV LUIZ DUMONT VILLARES
+Santana;2023.02.20;Inativo Intransitável;17:55;PC ORLANDO SILVA
+Santana;2023.02.20;Inativo Intransitável;18:07;AV ZAKI NARCHI
+Santana;2023.02.20;Inativo Intransitável;18:44;AV LUIZ DUMONT VILLARES
+Sé;2023.02.20;Inativo Intransitável;18:12;PC DA BANDEIRA
+Sé;2023.02.20;Inativo Intransitável;18:22;AV NOVE DE JULHO
+Sé;2023.02.20;Inativo Intransitável;18:54;AV PRES CASTELO BRANCO
+Lapa;2023.02.20;Inativo Intransitável;17:56;AV ORDEM E PROGRESSO
+Itaquera;2023.02.20;Inativo Intransitável;17:10;AV ITAQUERA
+Vila Mariana;2023.02.20;Inativo Transitável;18:19;AV VINTE E TRES DE MAIO
+Santana;2023.02.19;Inativo Transitável;05:31;MARGINAL TIETE ASCB CENTRAL
+Sé;2023.02.19;Inativo Transitável;07:12;R GAL OSORIO
+Sé;2023.02.19;Inativo Transitável;08:42;AV MERCURIO
+Sé;2023.02.19;Inativo Transitável;08:56;MARGINAL TIETE CBAS CENTRAL
+Sé;2023.02.19;Inativo Intransitável;09:06;MARGINAL TIETE CBAS EXPRESSA
+Sé;2023.02.19;Inativo Transitável;10:45;R BR.DE JAGUARA
+São Mateus;2023.02.19;Inativo Intransitável;07:40;AV JACU PESSEGO N TRABALHADORES
+São Mateus;2023.02.19;Inativo Intransitável;14:08;AV JACU PESSEGO N TRABALHADORES
+Vila Prudente;2023.02.19;Inativo Transitável;06:48;AV DO ESTADO
+Vila Prudente;2023.02.19;Inativo Transitável;06:54;PC ALBERTO LION
+Vila Prudente;2023.02.19;Inativo Transitável;08:26;R JOAO TEODORO
+Casa Verde;2023.02.18;Inativo Intransitável;14:05;RUA ZILDA
+Santana;2023.02.18;Inativo Transitável;02:29;PC CAMPO DE BAGATELLE
+Santana;2023.02.18;Inativo Intransitável;14:15;AC DIREITO A AV OTAVIANO ALVES (SANTANA)
+Santana;2023.02.18;Inativo Transitável;17:20;AV CRUZEIRO DO SUL
+Sé;2023.02.18;Inativo Transitável;14:06;PC DA BANDEIRA
+Sé;2023.02.18;Inativo Intransitável;14:22;R MANOEL DUTRA
+Sé;2023.02.18;Inativo Transitável;14:33;AV PRES CASTELO BRANCO
+Sé;2023.02.18;Inativo Intransitável;17:16;R PORTO SEGURO
+Sé;2023.02.18;Inativo Intransitável;17:18;R PORTO SEGURO
+Sé;2023.02.18;Inativo Intransitável;17:35;R PAULINO GUIMARAES
+Butantã;2023.02.18;Inativo Intransitável;14:43;PC ELIS REGINA
+Butantã;2023.02.18;Inativo Intransitável;15:49;AV LINEU DE PAULA MACHADO
+Butantã;2023.02.18;Inativo Transitável;17:12;AV VITAL BRASIL
+Pinheiros;2023.02.18;Inativo Intransitável;14:20;R HENRIQUE SCHAUMANN
+Pinheiros;2023.02.18;Inativo Intransitável;14:41;R CARDEAL ARCOVERDE
+Pinheiros;2023.02.18;Inativo Intransitável;14:54;PC APECATU
+Pinheiros;2023.02.18;Inativo Transitável;17:44;R BRIG HAROLDO VELOSO
+Pinheiros;2023.02.18;Inativo Transitável;18:13;R DOS PINHEIROS (PINHEIROS)
+São Mateus;2023.02.18;Inativo Intransitável;21:44;AV JACU PESSEGO N TRABALHADORES
+Vila Prudente;2023.02.18;Inativo Intransitável;13:00;RUA LUCAS DE CAMARGO
+Vila Prudente;2023.02.18;Inativo Transitável;16:58;PC ALBERTO LION
+Cidade Ademar;2023.02.18;Inativo Intransitável;15:10;AV CUPECE
+Santo Amaro;2023.02.18;Inativo Intransitável;14:49;AV INTERLAGOS
+Santo Amaro;2023.02.18;Inativo Intransitável;14:49;AV DAS NAÇÕES UNIDAS
+Santo Amaro;2023.02.18;Inativo Intransitável;15:00;AV ROQUE PETRONI JUNIOR
+Santo Amaro;2023.02.18;Inativo Transitável;17:13;AV ROQUE PETRONI JUNIOR
+Vila Mariana;2023.02.18;Inativo Transitável;13:35;R ANTONIO DE QUEIROGA
+Vila Mariana;2023.02.18;Inativo Transitável;14:09;AV IBIRAPUERA
+Vila Mariana;2023.02.18;Inativo Intransitável;14:24;AV VINTE E TRES DE MAIO
+Santana;2023.02.17;Inativo Intransitável;03:12;AV CRUZEIRO DO SUL
+Sé;2023.02.17;Inativo Intransitável;06:42;R DOM RODO
+Sé;2023.02.17;Inativo Transitável;07:30;R S PAULO (LIBERDADE)
+São Mateus;2023.02.17;Inativo Intransitável;05:27;AV JACU PESSEGO N TRABALHADORES
+Casa Verde;2023.02.16;Inativo Intransitável;21:17;AV ANTONIO MUNHOZ BONILHA
+Casa Verde;2023.02.16;Inativo Intransitável;21:22;R SUSANA DE GOIS
+Casa Verde;2023.02.16;Inativo Intransitável;21:34;R BARTHOLOMEU DO CANTO
+Sé;2023.02.16;Inativo Transitável;21:29;MARGINAL TIETE
+Sé;2023.02.16;Inativo Intransitável;21:29;AV PRES CASTELO BRANCO
+Sé;2023.02.16;Inativo Transitável;22:10;R CAPISTRANO DE ABREU
+Sé;2023.02.16;Inativo Transitável;22:31;R PRES BATISTA PEREIRA
+Itaquera;2023.02.16;Inativo Intransitável;21:27;AV ITAQUERA
+Mooca;2023.02.16;Inativo Intransitável;21:21;AV ALCANTARA MACHADO
+Mooca;2023.02.16;Inativo Intransitável;21:30;R BRESSER
+Mooca;2023.02.16;Inativo Intransitável;21:43;AV ALCANTARA MACHADO
+Mooca;2023.02.16;Inativo Intransitável;22:35;R ITAQUI
+Penha;2023.02.16;Inativo Transitável;21:20;R DR LUIZ AYRES
+Penha;2023.02.16;Inativo Intransitável;22:31;R FRANCIS DE CASTELNAU
+Vila Mariana;2023.02.16;Inativo Transitável;21:03;AV STO AMARO
+Santana;2023.02.15;Inativo Transitável;15:41;R DR CESAR
+Itaquera;2023.02.15;Inativo Intransitável;15:54;R CAMPINAS DO PIAUI
+Itaquera;2023.02.15;Inativo Intransitável;15:56;AV ITAQUERA
+São Miguel Paulista;2023.02.15;Inativo Intransitável;10:38;R ANTONIO DIAS DE MOURA
+Santo Amaro;2023.02.15;Inativo Intransitável;16:16;AV INTERLAGOS
+Itaquera;2023.02.13;Inativo Transitável;19:20;RUA JOSÉ VIEIRA GUIMARÃES
+Itaim Paulista;2023.02.13;Inativo Intransitável;19:21;AV MANUEL BARBALHO DE LIMA
+São Miguel Paulista;2023.02.13;Inativo Intransitável;19:30;AV MAL TITO
+São Miguel Paulista;2023.02.13;Inativo Intransitável;20:17;R ASDRUBAL
+Casa Verde;2023.02.12;Inativo Intransitável;18:16;AV ANTONIO MUNHOZ BONILHA
+Pinheiros;2023.02.12;Inativo Transitável;16:41;AV DAS NACOES UNIDAS
+Itaquera;2023.02.12;Inativo Intransitável;16:31;AV ITAQUERA
+Santo Amaro;2023.02.12;Inativo Intransitável;15:41;AV DAS NACOES UNIDAS
+Santo Amaro;2023.02.12;Inativo Intransitável;16:22;AV DAS NACOES UNIDAS
+Santo Amaro;2023.02.12;Inativo Intransitável;16:24;AV ROQUE PETRONI JUNIOR
+Santo Amaro;2023.02.12;Inativo Intransitável;16:36;AV DAS NACOES UNIDAS
+Santo Amaro;2023.02.12;Inativo Intransitável;16:37;R HUNGRIA
+Vila Mariana;2023.02.12;Inativo Intransitável;16:26;AV DOS BANDEIRANTES
+Vila Mariana;2023.02.12;Inativo Intransitável;16:31;AV VINTE E TRES DE MAIO
+Vila Mariana;2023.02.12;Inativo Intransitável;16:47;AV DOS BANDEIRANTES
+Casa Verde;2023.02.07;Inativo Intransitável;15:57;AV ANTONIO MUNHOZ BONILHA
+Freguesia do Ó;2023.02.07;Inativo Intransitável;14:30;AV MIN PETRONIO PORTELA
+Freguesia do Ó;2023.02.07;Inativo Intransitável;16:02;R STA ROMANA
+Vila Maria/ Vila Guilherme;2023.02.07;Inativo Transitável;14:39;AV SANATORIO
+Vila Maria/ Vila Guilherme;2023.02.07;Inativo Transitável;15:19;AV SANATORIO
+Pirituba/Jaraguá;2023.02.07;Inativo Intransitável;16:31;VIA ANHANGUERA
+Sé;2023.02.07;Inativo Intransitável;14:38;AV PRES CASTELO BRANCO
+Sé;2023.02.07;Inativo Intransitável;14:43;R PRES BATISTA PEREIRA
+Sé;2023.02.07;Inativo Intransitável;14:49;VD DO CHA
+Sé;2023.02.07;Inativo Transitável;14:52;AV RIO BRANCO
+Sé;2023.02.07;Inativo Intransitável;14:57;R TEIXEIRA LEITE
+Sé;2023.02.07;Inativo Intransitável;15:19;R ROCHA
+Sé;2023.02.07;Inativo Intransitável;15:29;VEL PRES JOAO GOULART
+Sé;2023.02.07;Inativo Intransitável;16:10;R GLICERIO
+Butantã;2023.02.07;Inativo Intransitável;15:08;AV PROF FRANCISCO MORATO
+Butantã;2023.02.07;Inativo Intransitável;15:15;AV PROF FRANCISCO MORATO
+Butantã;2023.02.07;Inativo Intransitável;15:30;AV CORIFEU DE AZEVEDO MARQUES
+Butantã;2023.02.07;Inativo Transitável;15:40;MARGINAL PINHEIROS CBINT
+Butantã;2023.02.07;Inativo Intransitável;15:42;AV MAGALHAES DE CASTRO
+Lapa;2023.02.07;Inativo Intransitável;15:26;AV POMPEIA
+Lapa;2023.02.07;Inativo Transitável;15:40;PC PASCOAL MARTINS
+Lapa;2023.02.07;Inativo Transitável;15:46;AV DR GASTAO VIDIGAL
+Lapa;2023.02.07;Inativo Intransitável;15:57;AV ENG BILLINGS
+Lapa;2023.02.07;Inativo Intransitável;16:39;R OTHAO
+Lapa;2023.02.07;Inativo Intransitável;18:41;R ANTOINE BOURDELLE
+Lapa;2023.02.07;Inativo Intransitável;19:12;R VLADIMIR HERZOG
+Lapa;2023.02.07;Inativo Intransitável;19:22;AV ENG BILLINGS
+Pinheiros;2023.02.07;Inativo Transitável;15:12;R HENRIQUE SCHAUMANN
+Pinheiros;2023.02.07;Inativo Transitável;15:24;R LUIS MURAT
+Pinheiros;2023.02.07;Inativo Transitável;15:27;AV QUEIROZ FILHO
+Pinheiros;2023.02.07;Inativo Intransitável;15:27;R ARGENTINA
+Pinheiros;2023.02.07;Inativo Intransitável;15:31;R CANADA (JD PAULISTA)
+Pinheiros;2023.02.07;Inativo Intransitável;15:38;PC AMERICA
+Pinheiros;2023.02.07;Inativo Intransitável;15:44;R HARMONIA
+Pinheiros;2023.02.07;Inativo Transitável;15:52;R ABEGOARIA
+Pinheiros;2023.02.07;Inativo Transitável;16:01;AV NOVE DE JULHO
+Itaquera;2023.02.07;Inativo Transitável;13:40;AV NAGIB FARAH MALUF
+Itaquera;2023.02.07;Inativo Intransitável;13:42;R VIRGINIA FERNI
+Itaquera;2023.02.07;Inativo Intransitável;13:43;AV ITAQUERA
+Itaquera;2023.02.07;Inativo Intransitável;13:43;R CACHOEIRA ITAGUASSAVA
+Itaquera;2023.02.07;Inativo Transitável;13:45;R CASTELO DO PIAUI
+Itaquera;2023.02.07;Inativo Transitável;13:50;R PROF JOAO BASTISTA CONTI
+Itaquera;2023.02.07;Inativo Intransitável;14:00;R CUNHA PORÃ
+Itaquera;2023.02.07;Inativo Intransitável;14:07;R PDE VIEGAS DE MENEZES
+Itaquera;2023.02.07;Inativo Intransitável;14:30;AV ITAQUERA
+Itaquera;2023.02.07;Inativo Intransitável;14:30;AV OSWALDO VALLE CORDEIRO
+Itaquera;2023.02.07;Inativo Transitável;15:39;AV JACU PESSEGO N TRABALHADORES
+Mooca;2023.02.07;Inativo Transitável;14:31;AC AO VD BRESSER
+Mooca;2023.02.07;Inativo Intransitável;14:43;R HIPODROMO
+Mooca;2023.02.07;Inativo Intransitável;15:06;AV ALCANTARA MACHADO
+Mooca;2023.02.07;Inativo Intransitável;15:06;AV ALCANTARA MACHADO
+São Miguel Paulista;2023.02.07;Inativo Transitável;13:32;AV JACU PESSEGO N TRABALHADORES
+São Mateus;2023.02.07;Inativo Transitável;19:34;AV JACU PESSEGO N TRABALHADORES
+Vila Prudente;2023.02.07;Inativo Transitável;14:32;AV DO ESTADO
+Vila Prudente;2023.02.07;Inativo Intransitável;15:28;AV PROF LUIZ IGNACIO ANHAIA MELLO
+Campo Limpo;2023.02.07;Inativo Intransitável;18:26;R MARIA BLANCHARD
+M'Boi Mirim;2023.02.07;Inativo Intransitável;15:51;ES DO CAMPO LIMPO
+M'Boi Mirim;2023.02.07;Inativo Intransitável;16:23;AV GUARAPIRANGA
+Santo Amaro;2023.02.07;Inativo Intransitável;15:44;AV DAS NACOES UNIDAS
+Santo Amaro;2023.02.07;Inativo Transitável;16:07;AV DAS NACOES UNIDAS
+Santo Amaro;2023.02.07;Inativo Transitável;16:09;AV DAS NACOES UNIDAS
+Santo Amaro;2023.02.07;Inativo Intransitável;16:10;AV INTERLAGOS
+Santo Amaro;2023.02.07;Inativo Intransitável;16:16;AV VITOR MANZINI
+Santo Amaro;2023.02.07;Inativo Transitável;16:20;AV DAS NACOES UNIDAS
+Santo Amaro;2023.02.07;Inativo Intransitável;17:08;AV VITOR MANZINI
+Santo Amaro;2023.02.07;Inativo Intransitável;18:33;R GALENO DE CASTRO
+Santo Amaro;2023.02.07;Inativo Intransitável;18:43;AV ROQUE PETRONI JUNIOR
+Ipiranga;2023.02.07;Inativo Intransitável;15:06;R DOS PATRIOTAS
+Ipiranga;2023.02.07;Inativo Intransitável;15:10;R CISPLATINA
+Ipiranga;2023.02.07;Inativo Intransitável;15:24;R TABOR
+Ipiranga;2023.02.07;Inativo Intransitável;16:44;R MIL OITOCENTOS E VINTE E DOIS
+Ipiranga;2023.02.07;Inativo Intransitável;16:53;R MIL OITOCENTOS E VINTE E DOIS
+Ipiranga;2023.02.07;Inativo Intransitável;17:00;R ALENCAR DE ARARIPE
+Vila Mariana;2023.02.07;Inativo Transitável;15:04;AV VINTE E TRES DE MAIO
+Vila Mariana;2023.02.07;Inativo Intransitável;15:19;AV VINTE E TRES DE MAIO
+Vila Mariana;2023.02.07;Inativo Intransitável;15:38;AV VINTE E TRES DE MAIO
+Vila Mariana;2023.02.07;Inativo Intransitável;15:46;AV STO AMARO
+Vila Mariana;2023.02.07;Inativo Intransitável;15:52;AV JAMARIS
+Vila Mariana;2023.02.07;Inativo Intransitável;16:02;AV IBIRAPUERA
+Casa Verde;2023.02.06;Inativo Transitável;13:41;AV ANTONIO MUNHOZ BONILHA
+Lapa;2023.02.06;Inativo Intransitável;19:02;R VLADIMIR HERZOG
+São Miguel Paulista;2023.02.06;Inativo Transitável;18:50;AV PIRES DO RIO
+Santo Amaro;2023.02.06;Inativo Transitável;16:56;AV DAS NACOES UNIDAS
+Santo Amaro;2023.02.06;Inativo Transitável;17:05;VD AUSTREGESILO DE ATHAYDE
+Santo Amaro;2023.02.06;Inativo Transitável;17:38;AV CHUKRI ZAIDAN
+Vila Mariana;2023.02.06;Inativo Intransitável;16:22;AV STO AMARO
+Cidade Tiradentes;2023.02.02;Inativo Intransitável;19:30;AV DOS METALURGICOS
+Cidade Tiradentes;2023.02.02;Inativo Intransitável;19:30;R INACIO MONTEIRO
+Cidade Tiradentes;2023.02.02;Inativo Intransitável;19:30;AV JOSE HIGINO NEVES
+São Miguel Paulista;2023.02.02;Inativo Transitável;08:50;AV BRAS DA ROCHA CARDOSO
+São Mateus;2023.02.02;Inativo Intransitável;19:30;R MARIA LUISA DO VAL PENTEADO
+Vila Prudente;2023.02.02;Inativo Intransitável;19:50;TV HILARION QUINTANA
+Vila Prudente;2023.02.02;Inativo Intransitável;20:00;R ARENITO
+Parelheiros;2023.02.02;Inativo Intransitável;19:30;ES ECOTURISTICA DE PARELHEIROS
+Vila Maria/ Vila Guilherme;2023.02.01;Inativo Intransitável;21:19;R SEM DENOMINACAO
+Sé;2023.02.01;Inativo Intransitável;06:25;R DOM RODO
+Lapa;2023.02.01;Inativo Transitável;08:26;R VLADIMIR HERZOG
+Aricanduva/ Vila Formosa;2023.02.01;Inativo Transitável;21:07;R CARLOS SILVA
+Itaquera;2023.02.01;Inativo Intransitável;20:23;AV ITAQUERA
+Itaquera;2023.02.01;Inativo Transitável;20:36;R PDE VIEGAS DE MENEZES
+São Miguel Paulista;2023.02.01;Inativo Transitável;20:30;R ASDRUBAL
+São Mateus;2023.02.01;Inativo Intransitável;07:51;AV AFONSO DE SAMPAIO E SOUSA
+Ipiranga;2023.02.01;Inativo Transitável;20:32;AV TERESA CRISTINA
+Sé;2023.01.31;Inativo Transitável;19:52;R PRES BATISTA PEREIRA
+Sé;2023.01.31;Inativo Transitável;21:42;AV RANGEL PESTANA
+Itaquera;2023.01.31;Inativo Intransitável;22:00;R PROF JOAO BASTISTA CONTI
+Itaquera;2023.01.31;Inativo Intransitável;22:00;AV ITAQUERA
+Itaquera;2023.01.31;Inativo Intransitável;22:07;R PDE VIEGAS DE MENEZES
+São Miguel Paulista;2023.01.31;Inativo Intransitável;22:38;R AMERICO SUGAI
+Penha;2023.01.31;Inativo Intransitável;22:06;AV S MIGUEL
+São Mateus;2023.01.31;Inativo Intransitável;22:36;AV JACU PESSEGO N TRABALHADORES
+Capela do Socorro;2023.01.31;Inativo Intransitável;20:27;R PTOLOMEU
+M'Boi Mirim;2023.01.31;Inativo Transitável;17:08;PC ALCEU AMOROSO LIMA
+Santo Amaro;2023.01.31;Inativo Transitável;16:59;AV DAS NACOES UNIDAS
+Perus;2023.01.29;Inativo Intransitável;15:54;AV RAIMUNDO PEREIRA DE MAGALHAES
+Lapa;2023.01.29;Inativo Intransitável;15:33;AV MOFARREJ
+Lapa;2023.01.29;Inativo Intransitável;15:42;R VLADIMIR HERZOG
+Lapa;2023.01.29;Inativo Transitável;16:00;AV IMP LEOPOLDINA
+Lapa;2023.01.29;Inativo Transitável;16:02;R TRIPOLI
+Lapa;2023.01.29;Inativo Intransitável;16:02;AV IMPERATRIZ LEOPOLDINA
+Itaquera;2023.01.29;Inativo Intransitável;15:38;AV ITAQUERA
+Itaquera;2023.01.29;Inativo Intransitável;16:13;R ITAGIMIRIM
+Itaquera;2023.01.29;Inativo Intransitável;16:14;R LAGOA SALGADA
+Itaquera;2023.01.29;Inativo Intransitável;16:55;AV DAVID DOMINGUES FERREIRA
+Itaquera;2023.01.29;Inativo Intransitável;16:55;R DR LUIZ AYRES
+Penha;2023.01.29;Inativo Intransitável;16:13;R DR LUIZ AYRES
+Sapopemba;2023.01.29;Inativo Intransitável;16:45;TRAV HILARION QUINTANA
+São Mateus;2023.01.29;Inativo Intransitável;15:36;AV JACU PESSEGO N TRABALHADORES
+São Mateus;2023.01.29;Inativo Intransitável;17:35;AV ARICANDUVA
+São Mateus;2023.01.29;Inativo Intransitável;19:10;AV ARICANDUVA
+Santo Amaro;2023.01.29;Inativo Intransitável;16:14;AV INTERLAGOS
+Santo Amaro;2023.01.29;Inativo Intransitável;16:20;AV INTERLAGOS
+Santo Amaro;2023.01.29;Inativo Intransitável;22:12;AV DAS NACOES UNIDAS
+Freguesia do Ó;2023.01.28;Inativo Intransitável;16:12;AV GEN EDGAR FACO
+Pirituba/Jaraguá;2023.01.28;Inativo Intransitável;16:15;R RIO VERDE (PIRITUBA)
+Sé;2023.01.28;Inativo Transitável;16:44;AV RANGEL PESTANA
+Mooca;2023.01.28;Inativo Transitável;16:44;AV ALCANTARA MACHADO
+Jaçanã/ Tremembé;2023.01.24;Inativo Transitável;17:15;AV. SANATORIO
+Perus;2023.01.24;Inativo Intransitável;17:21;R FIORELLI PECCICACCO
+Perus;2023.01.24;Inativo Intransitável;17:29;PC. INACIA DIAS
+Perus;2023.01.24;Inativo Transitável;17:30;R BERNARDO JOSE DE LORENA
+Perus;2023.01.24;Inativo Intransitável;17:38;R JOAQUIM DE SOUSA
+Santana;2023.01.23;Inativo Transitável;14:04;MARGINAL TIETE ASCB CENTRAL
+Pinheiros;2023.01.19;Inativo Transitável;19:52;R ALASCA
+Lapa;2023.01.17;Inativo Intransitável;17:19;R VLADIMIR HERZOG
+Butantã;2023.01.16;Inativo Transitável;15:55;R DOS PIEMONTESES
+Lapa;2023.01.16;Inativo Intransitável;16:04;AV. MOFARREJ
+Itaquera;2023.01.16;Inativo Intransitável;06:46;R ZITUO KARASAWA
+Vila Prudente;2023.01.15;Inativo Intransitável;17:25;AV FRANCISCO FALCONI
+Vila Prudente;2023.01.15;Inativo Intransitável;17:29;AV PROF LUIZ IGNACIO ANHAIA MELLO
+M'Boi Mirim;2023.01.15;Inativo Intransitável;17:11;AV GUARAPIRANGA
+M'Boi Mirim;2023.01.15;Inativo Intransitável;17:11;AV GUARAPIRANGA
+Santo Amaro;2023.01.15;Inativo Intransitável;17:23;AV ROQUE PETRONI JUNIOR
+Santo Amaro;2023.01.15;Inativo Transitável;17:48;VD ENG ANTONIO MOLITERNO
+Santo Amaro;2023.01.15;Inativo Intransitável;18:04;AV DAS NACOES UNIDAS
+Pinheiros;2023.01.14;Inativo Intransitável;00:27;AV DAS NACOES UNIDAS
+Pinheiros;2023.01.14;Inativo Intransitável;00:29;MARGINAL PINHEIROS INTCB
+Pinheiros;2023.01.14;Inativo Transitável;00:55;AV CIDADE JARDIM
+Pinheiros;2023.01.14;Inativo Transitável;01:32;AV CIDADE JARDIM
+Mooca;2023.01.14;Inativo Transitável;01:08;AV SALIM FARAH MALUF
+Penha;2023.01.14;Inativo Transitável;00:36;AV CD.DE FRONTIN
+Santo Amaro;2023.01.14;Inativo Transitável;02:22;AV DAS NACOES UNIDAS
+Santo Amaro;2023.01.14;Inativo Intransitável;02:28;AV DAS NACOES UNIDAS
+Sé;2023.01.13;Inativo Transitável;11:44;AV TIRADENTES
+Sé;2023.01.13;Inativo Intransitável;22:59;R MANOEL DUTRA
+Mooca;2023.01.13;Inativo Intransitável;08:59;R DA FIGUEIRA
+Mooca;2023.01.13;Inativo Intransitável;22:43;R PRES BATISTA PEREIRA
+Mooca;2023.01.13;Inativo Transitável;22:55;AV ALCANTARA MACHADO
+Mooca;2023.01.13;Inativo Intransitável;23:02;AV ALCANTARA MACHADO
+Butantã;2023.01.12;Inativo Transitável;08:01;R JOSE FELIX
+Pinheiros;2023.01.12;Inativo Transitável;07:56;AV DOS BANDEIRANTES
+Mooca;2023.01.12;Inativo Intransitável;05:58;R DA FIGUEIRA
+Butantã;2023.01.11;Inativo Intransitável;22:27;AV. PROF. FRANCISCO MORATO
+Freguesia do Ó;2023.01.10;Inativo Intransitável;16:52;AV ANTONIO MUNHOZ BONILHA
+Jaçanã/ Tremembé;2023.01.10;Inativo Transitável;17:04;PC GIOVANNELLI LUIGI
+Sé;2023.01.10;Inativo Transitável;16:05;PC DA BANDEIRA
+Sé;2023.01.10;Inativo Transitável;16:13;R TEIXEIRA LEITE
+Sé;2023.01.10;Inativo Transitável;16:16;PC DA BANDEIRA
+Sé;2023.01.10;Inativo Transitável;16:19;AV NOVE DE JULHO
+Sé;2023.01.10;Inativo Transitável;16:25;PC DA BANDEIRA
+Pinheiros;2023.01.10;Inativo Intransitável;15:55;R ABEGOARIA
+Pinheiros;2023.01.10;Inativo Transitável;16:16;AV PROF FONSECA RODRIGUES
+Mooca;2023.01.10;Inativo Intransitável;16:19;R DA MOOCA
+Mooca;2023.01.10;Inativo Transitável;17:30;R PRES BATISTA PEREIRA
+Santo Amaro;2023.01.10;Inativo Transitável;15:35;AV DAS NACOES UNIDAS
+Santo Amaro;2023.01.10;Inativo Intransitável;16:11;AV JULES RIMET
+Sé;2023.01.06;Inativo Transitável;15:26;R DA CANTAREIRA (BOM RETIRO)
+Sé;2023.01.05;Inativo Intransitável;07:36;AV JOAO DE BARROS
+Lapa;2023.01.05;Inativo Intransitável;06:01;R VLADIMIR HERZOG
+Lapa;2023.01.05;Inativo Intransitável;07:13;AV PRES CASTELO BRANCO
+Lapa;2023.01.05;Inativo Intransitável;08:35;AV PRES CASTELO BRANCO
+Pinheiros;2023.01.05;Inativo Intransitável;06:37;AV DAS NACOES UNIDAS
+Mooca;2023.01.05;Inativo Transitável;08:38;AV ALCANTARA MACHADO
+Sé;2023.01.04;Inativo Intransitável;16:49;R MANOEL DUTRA
+Sé;2023.01.04;Inativo Transitável;16:50;RUA DONA ANTONIA DE QUEIROZ
+Butantã;2023.01.04;Inativo Transitável;16:30;R DOS PIEMONTESES
+Butantã;2023.01.04;Inativo Transitável;16:47;AV MAGALHÃES DE CASTRO
+Butantã;2023.01.04;Inativo Transitável;16:49;AV MAJ SYLVIO DE MAGALHAES PADILHA
+Butantã;2023.01.04;Inativo Transitável;17:07;AV VITAL BRASIL
+Butantã;2023.01.04;Inativo Transitável;17:30;AV ENGENHEIRO BILLINGS
+Lapa;2023.01.04;Inativo Intransitável;17:40;R VLADIMIR HERZOG
+Pinheiros;2023.01.04;Inativo Transitável;19:09;AV DAS NACOES UNIDAS
+Santo Amaro;2023.01.04;Inativo Transitável;16:41;AV DAS NAÇÕES UNIDAS
+Casa Verde;2023.01.03;Inativo Intransitável;16:20;R JOAO DUARTE
+Santana;2023.01.03;Inativo Intransitável;18:06;R SARGM RAMALHO
+Itaquera;2023.01.01;Inativo Intransitável;14:16;AVENIDA ARICANDUVA
+Itaquera;2023.01.01;Inativo Transitável;14:35;RUA PADRE VIEGAS DE MENEZES
+Penha;2022.12.31;Inativo Intransitável;14:06;AV ANTONIO ESTEVÃO DE CARVALHO
+Penha;2022.12.31;Inativo Intransitável;14:10;R JOAQUIM MARRA
+Penha;2022.12.31;Inativo Intransitável;14:34;R MANILHA
+Campo Limpo;2022.12.31;Inativo Intransitável;15:26;ES DO CAMPO LIMPO
+Perus;2022.12.29;Inativo Transitável;20:30;ESTRADA DE LIGAÇÃO
+Sé;2022.12.28;Inativo Transitável;06:40;R ROBERTO SIMONSEN
+Sé;2022.12.28;Inativo Transitável;06:59;R VINTE E CINCO DE MARCO
+Sé;2022.12.28;Inativo Transitável;08:13;PQ DOM PEDRO II
+Capela do Socorro;2022.12.28;Inativo Transitável;04:53;R POMELO
+Capela do Socorro;2022.12.28;Inativo Transitável;07:40;AV JOAO DE BARROS
+Capela do Socorro;2022.12.28;Inativo Transitável;08:03;R GUARATIBA
+M'Boi Mirim;2022.12.28;Inativo Intransitável;05:49;AV FRANCISCO NOBREGA BARBOSA
+Sé;2022.12.21;Inativo Transitável;05:52;R VLADIMIR HERZOG
+Santo Amaro;2022.12.16;Inativo Transitável;15:39;AV STO AMARO
+Sé;2022.12.14;Inativo Intransitável;06:44;R VLADIMIR HERZOG
+Vila Mariana;2022.12.14;Inativo Intransitável;06:55;R FRANCISCO CRUZ
+Casa Verde;2022.12.13;Inativo Transitável;08:26;TV CAPUA
+Santana;2022.12.13;Inativo Transitável;08:15;AV ZAKI NARCHI
+Sé;2022.12.13;Inativo Transitável;06:48;VEL PRES JOAO GOULART
+Sé;2022.12.13;Inativo Transitável;07:57;AV DO ESTADO
+Sé;2022.12.13;Inativo Intransitável;08:56;R VLADIMIR HERZOG
+Sé;2022.12.13;Inativo Intransitável;09:29;AV COMEN MARTINELLI
+Sé;2022.12.13;Inativo Intransitável;09:36;R BR.DE POMBALINHO
+Butantã;2022.12.13;Inativo Intransitável;07:48;TV IRMA DOLORES BALDI
+Butantã;2022.12.13;Inativo Intransitável;07:56;PC ALFREDO GOMES
+Lapa;2022.12.13;Inativo Transitável;08:58;R NORMA DE LUCA
+Pinheiros;2022.12.13;Inativo Intransitável;07:47;AV DAS ACACIAS
+Pinheiros;2022.12.13;Inativo Transitável;07:59;PC PAN-AMERICANA
+Pinheiros;2022.12.13;Inativo Transitável;08:33;AV PROF FONSECA RODRIGUES
+Mooca;2022.12.13;Inativo Intransitável;07:59;AV CD.DE FRONTIN
+Mooca;2022.12.13;Inativo Transitável;08:01;AV ALCANTARA MACHADO
+Santo Amaro;2022.12.13;Inativo Intransitável;07:44;AV STO AMARO
+Santo Amaro;2022.12.13;Inativo Intransitável;07:53;AV STO AMARO
+Santo Amaro;2022.12.13;Inativo Transitável;08:04;R JOAO ALFREDO
+Santo Amaro;2022.12.13;Inativo Transitável;08:16;AV DAS NACOES UNIDAS
+Santo Amaro;2022.12.13;Inativo Intransitável;08:17;AV FRANCISCO NOBREGA BARBOSA
+Vila Mariana;2022.12.13;Inativo Transitável;07:58;AV PEDRO ALVARES CABRAL
+Vila Mariana;2022.12.13;Inativo Intransitável;07:59;AV RUBEM BERTA
+Vila Mariana;2022.12.13;Inativo Intransitável;08:20;AV VINTE E TRES DE MAIO
+Itaquera;2022.12.11;Inativo Intransitável;15:14;AV ITAQUERA
+Itaquera;2022.12.11;Inativo Intransitável;15:23;R TOMAZZO FERRARA
+Itaquera;2022.12.11;Inativo Intransitável;15:31;R ITAGIMIRIM
+Itaquera;2022.12.11;Inativo Intransitável;15:39;AV ITAQUERA
+Sé;2022.12.08;Inativo Intransitável;08:15;R VLADIMIR HERZOG
+Sé;2022.12.08;Inativo Intransitável;08:22;R CARLOS SPERA
+Sé;2022.12.07;Inativo Transitável;01:31;AV COMEN MARTINELLI
+Sé;2022.12.07;Inativo Transitável;06:18;VEL PRES JOAO GOULART
+Sé;2022.12.07;Inativo Transitável;06:46;R BR.DE POMBALINHO
+Sé;2022.12.07;Inativo Transitável;06:58;AV CRUZEIRO DO SUL
+Sé;2022.12.07;Inativo Transitável;07:47;R PORTO SEGURO
+Sé;2022.12.07;Inativo Transitável;07:55;R PORTO SEGURO
+Butantã;2022.12.07;Inativo Transitável;09:59;MARGINAL PINHEIROS
+Capela do Socorro;2022.12.07;Inativo Transitável;07:28;AV JOAO DE BARROS
+Jaçanã/ Tremembé;2022.12.06;Inativo Transitável;21:23;AV SANATORIO
+Vila Maria/ Vila Guilherme;2022.12.06;Inativo Intransitável;20:17;R CHICO PONTES
+Santana;2022.12.06;Inativo Transitável;19:05;AV CRUZEIRO DO SUL
+Santana;2022.12.06;Inativo Intransitável;20:47;MARGINAL TIETE
+Sé;2022.12.06;Inativo Intransitável;06:28;VEL PRES JOAO GOULART
+Sé;2022.12.06;Inativo Transitável;14:37;AL NOTHMANN
+Sé;2022.12.06;Inativo Intransitável;19:43;R MANOEL DUTRA
+Sé;2022.12.06;Inativo Transitável;19:52;PC DA BANDEIRA
+Sé;2022.12.06;Inativo Intransitável;19:52;R S PAULO
+Sé;2022.12.06;Inativo Transitável;19:54;AV VINTE E TRES DE MAIO
+Butantã;2022.12.06;Inativo Transitável;09:45;R ARISTEU SEIXAS
+Butantã;2022.12.06;Inativo Transitável;20:57;AV VITAL BRASIL
+Butantã;2022.12.06;Inativo Intransitável;21:11;TV IRMA DOLORES BALDI
+Butantã;2022.12.06;Inativo Intransitável;21:53;AV DAS NACOES UNIDAS
+Lapa;2022.12.06;Inativo Transitável;08:04;R SEN JOAQUIM RIBEIRO DO VALLE
+Lapa;2022.12.06;Inativo Intransitável;16:55;R CENNO SBRIGHI
+Lapa;2022.12.06;Inativo Intransitável;21:19;PC PASCOAL MARTINS
+Pinheiros;2022.12.06;Inativo Transitável;07:52;AV PEDROSO DE MORAIS
+Pinheiros;2022.12.06;Inativo Transitável;16:59;AV IBIRAPUERA
+Pinheiros;2022.12.06;Inativo Intransitável;20:41;R FUNCHAL
+Itaquera;2022.12.06;Inativo Intransitável;20:55;AV JOSE PINHEIRO BORGES
+Itaquera;2022.12.06;Inativo Transitável;22:24;AV ITAQUERA
+Mooca;2022.12.06;Inativo Transitável;19:58;AV CELSO GARCIA
+Penha;2022.12.06;Inativo Transitável;06:50;AV CDSSA ELISABETH DE ROBIANO
+Penha;2022.12.06;Inativo Intransitável;20:16;R ABADIANIA
+Penha;2022.12.06;Inativo Intransitável;20:57;AV CD.DE FRONTIN
+Santo Amaro;2022.12.06;Inativo Intransitável;19:51;AV SANTO AMARO
+Santo Amaro;2022.12.06;Inativo Transitável;20:06;AV JORN ROBERTO MARINHO
+Vila Mariana;2022.12.06;Inativo Intransitável;17:04;AV JAMARIS
+Vila Mariana;2022.12.06;Inativo Intransitável;20:01;AV VINTE E TRES DE MAIO
+Vila Mariana;2022.12.06;Inativo Transitável;20:49;AV IBIRAPUERA
+Vila Mariana;2022.12.06;Inativo Transitável;21:23;AV ANTONIO J. DE MOURA ANDRADE
+Butantã;2022.12.05;Inativo Transitável;15:58;AV MAGALHAES DE CASTRO
+Lapa;2022.12.05;Inativo Transitável;13:25;AV ENG BILLINGS
+Santo Amaro;2022.12.05;Inativo Intransitável;12:59;AV STO AMARO
+Santo Amaro;2022.12.05;Inativo Intransitável;16:14;AV JORN ROBERTO MARINHO
+Pirituba/Jaraguá;2022.12.03;Inativo Intransitável;16:07;R PDE JOAO BEIL
+Perus;2022.12.03;Inativo Intransitável;17:06;R BANANALZINHO
+Butantã;2022.12.03;Inativo Transitável;16:51;TV IRMA DOLORES BALDI
+Lapa;2022.12.03;Inativo Intransitável;16:10;AV CANDIDO PORTINARI
+Lapa;2022.12.03;Inativo Transitável;19:09;AV ENG BILLINGS
+Pinheiros;2022.12.03;Inativo Intransitável;15:17;AV PEDRO ALVARES CABRAL
+Pinheiros;2022.12.03;Inativo Transitável;16:24;AV PROF FONSECA RODRIGUES
+Mooca;2022.12.03;Inativo Intransitável;15:04;AV SALIM FARAH MALUF
+Mooca;2022.12.03;Inativo Intransitável;15:10;AV SALIM FARAH MALUF
+Vila Prudente;2022.12.03;Inativo Intransitável;15:07;AV DR FRANCISCO MESQUITA
+Vila Mariana;2022.12.03;Inativo Intransitável;15:23;AV DAS NACOES UNIDAS
+Vila Mariana;2022.12.03;Inativo Intransitável;15:48;AV DAS NACOES UNIDAS
+Butantã;2022.12.02;Inativo Transitável;15:26;AV DAS ACACIAS
+Lapa;2022.12.02;Inativo Transitável;15:16;AV POMPEIA
+Lapa;2022.12.02;Inativo Transitável;15:23;R ENG OSCAR AMERICANO
+Pinheiros;2022.12.02;Inativo Transitável;16:16;R BRIG HAROLDO VELOSO
+Santo Amaro;2022.12.02;Inativo Transitável;15:50;AV DAS NACOES UNIDAS
+Sé;2022.11.30;Inativo Transitável;15:14;R BRESSER
+Sé;2022.11.30;Inativo Intransitável;15:31;PC CIRO PONTES
+Butantã;2022.11.30;Inativo Intransitável;15:24;AV DAS ACACIAS
+Butantã;2022.11.30;Inativo Intransitável;15:31;TV IRMA DOLORES BALDI
+Butantã;2022.11.30;Inativo Intransitável;15:38;R ALVES DOS SANTOS
+Lapa;2022.11.30;Inativo Transitável;15:52;AV DR GASTAO VIDIGAL
+Campo Limpo;2022.11.30;Inativo Transitável;18:19;R TEODOSIO DE MATOS
+Freguesia do Ó;2022.11.29;Inativo Intransitável;16:55;MARGINAL TIETE
+Sé;2022.11.29;Inativo Intransitável;17:24;R VLADIMIR HERZOG
+Sé;2022.11.29;Inativo Intransitável;18:10;R GAL JULIO MARCONDES SALGADO
+Butantã;2022.11.29;Inativo Intransitável;16:05;TV IRMA DOLORES BALDI
+Lapa;2022.11.29;Inativo Transitável;07:05;R CORIOLANO
+Lapa;2022.11.29;Inativo Intransitável;15:19;AV DR GASTAO VIDIGAL
+Pinheiros;2022.11.29;Inativo Transitável;14:04;AV IBIRAPUERA
+Pinheiros;2022.11.29;Inativo Transitável;14:07;AV IBIRAPUERA
+Pinheiros;2022.11.29;Inativo Transitável;14:28;AV DAS NACOES UNIDAS
+Sé;2022.11.28;Inativo Intransitável;07:39;R VLADIMIR HERZOG
+Lapa;2022.11.28;Inativo Transitável;14:07;R CLELIA
+Pinheiros;2022.11.28;Inativo Transitável;14:30;AV BRIG FARIA LIMA
+Mooca;2022.11.28;Inativo Transitável;14:05;R PRES BATISTA PEREIRA
+Vila Prudente;2022.11.28;Inativo Intransitável;14:08;AV SALIM FARAH MALUF
+Vila Prudente;2022.11.28;Inativo Intransitável;14:13;AV PROF LUIZ IGNACIO ANHAIA MELLO
+Vila Prudente;2022.11.28;Inativo Intransitável;14:18;AV FRANCISCO FALCONI
+Campo Limpo;2022.11.28;Inativo Intransitável;14:58;AV ELLIS MAAS
+Vila Mariana;2022.11.28;Inativo Intransitável;14:13;AV VINTE E TRES DE MAIO
+Vila Mariana;2022.11.28;Inativo Transitável;14:17;AV DOS BANDEIRANTES
+Vila Mariana;2022.11.28;Inativo Transitável;14:38;AV IBIRAPUERA
+Vila Mariana;2022.11.28;Inativo Transitável;14:40;AV IBIRAPUERA
+Vila Maria/ Vila Guilherme;2022.11.25;Inativo Transitável;06:16;R PAULO LORENZANI
+Sé;2022.11.25;Inativo Intransitável;01:39;R CARLOS SPERA
+M'Boi Mirim;2022.11.25;Inativo Transitável;05:12;ES M'BOI MIRIM
+Parelheiros;2022.11.25;Inativo Intransitável;00:06;R JOSE LA TORRE
+Sé;2022.11.24;Inativo Intransitável;05:56;R CARLOS SPERA
+Sé;2022.11.24;Inativo Intransitável;15:50;R VLADIMIR HERZOG
+Freguesia do Ó;2022.11.23;Inativo Transitável;19:25;R BARTHOLOMEU DO CANTO
+Freguesia do Ó;2022.11.23;Inativo Transitável;19:26;R BARTHOLOMEU DO CANTO
+Jaçanã/ Tremembé;2022.11.23;Inativo Intransitável;19:37;AV LUIS STAMATIS
+Pirituba/Jaraguá;2022.11.23;Inativo Intransitável;19:12;AV CANDIDO PORTINARI
+Sé;2022.11.23;Inativo Transitável;19:05;AV FRANCISCO MATARAZZO
+Sé;2022.11.23;Inativo Intransitável;19:25;AV PRES CASTELO BRANCO
+Sé;2022.11.23;Inativo Transitável;19:47;AV DAS NACOES UNIDAS
+Butantã;2022.11.23;Inativo Intransitável;20:36;AV ENG BILLINGS
+Lapa;2022.11.23;Inativo Transitável;18:39;R CLELIA
+Lapa;2022.11.23;Inativo Intransitável;18:48;R JEROAQUARA
+Lapa;2022.11.23;Inativo Transitável;19:00;PC PASCOAL MARTINS
+Lapa;2022.11.23;Inativo Intransitável;19:02;PC MARREY JUNIOR
+Lapa;2022.11.23;Inativo Intransitável;19:04;AV ANTONIO MUNHOZ BONILHA
+Lapa;2022.11.23;Inativo Intransitável;19:08;AV POMPEIA
+Lapa;2022.11.23;Inativo Transitável;19:14;AV QUEIROZ FILHO
+Mooca;2022.11.23;Inativo Intransitável;19:10;AV ALCANTARA MACHADO
+Mooca;2022.11.23;Inativo Intransitável;19:19;AV ALCANTARA MACHADO
+Mooca;2022.11.23;Inativo Intransitável;19:32;R BRESSER
+Santo Amaro;2022.11.23;Inativo Intransitável;19:48;AV STO AMARO
+Itaquera;2022.11.22;Inativo Transitável;18:17;R TOMAZZO FERRARA
+Santo Amaro;2022.11.22;Inativo Transitável;17:55;AV DAS NACOES UNIDAS
+Jaçanã/ Tremembé;2022.11.11;Inativo Transitável;18:43;AV STA INES
+Vila Maria/ Vila Guilherme;2022.11.11;Inativo Intransitável;18:33;R CEL MARQUES RIBEIRO
+Pinheiros;2022.11.11;Inativo Transitável;17:29;AV DAS NACOES UNIDAS
+Aricanduva/ Vila Formosa;2022.11.11;Inativo Intransitável;18:22;R TUMUCUMAQUE
+Itaquera;2022.11.11;Inativo Intransitável;18:17;RUA CUNHA PORÃ
+Penha;2022.11.11;Inativo Intransitável;18:11;AV DOM HELDER CAMARA
+Penha;2022.11.11;Inativo Transitável;18:32;AV GOV CARVALHO PINTO
+Santo Amaro;2022.11.11;Inativo Intransitável;17:49;AV STO AMARO
+Pirituba/Jaraguá;2022.10.31;Inativo Transitável;07:27;AV DEP CANTIDIO SAMPAIO
+Pirituba/Jaraguá;2022.10.31;Inativo Transitável;07:54;AV JERIMANDUBA
+Perus;2022.10.31;Inativo Transitável;07:29;R BERNARDO JOSE DE LORENA
+Sé;2022.10.31;Inativo Transitável;06:25;VEL PRES JOAO GOULART
+Sé;2022.10.31;Inativo Intransitável;08:10;AV IPIRANGA
+Sé;2022.10.31;Inativo Intransitável;08:12;R PAULA SOUSA
+Sé;2022.10.31;Inativo Transitável;08:13;AL NOTHMANN
+Lapa;2022.10.31;Inativo Transitável;05:49;PC MARREY JUNIOR
+Lapa;2022.10.31;Inativo Transitável;10:00;R SEN JOAQUIM RIBEIRO DO VALLE
+Lapa;2022.10.31;Inativo Transitável;11:38;R BR.DE POMBALINHO
+Itaquera;2022.10.31;Inativo Transitável;05:21;AV ITAQUERA
+Capela do Socorro;2022.10.31;Inativo Transitável;09:03;AV IPANEMA
+Santo Amaro;2022.10.31;Inativo Transitável;05:00;AV INTERLAGOS
+Vila Mariana;2022.10.31;Inativo Intransitável;06:39;AV SANTO AMARO
+Casa Verde;2022.10.29;Inativo Transitável;19:10;AV ANTONIO MUNHOZ BONILHA
+Pirituba/Jaraguá;2022.10.29;Inativo Intransitável;20:19;AV ELISIO CORDEIRO DE SIQUEIRA
+Sé;2022.10.29;Inativo Transitável;19:13;PC DA BANDEIRA
+Lapa;2022.10.29;Inativo Intransitável;19:16;PC PASCOAL MARTINS
+Sé;2022.10.21;Inativo Transitável;06:21;VEL PRES JOAO GOULART
+Sé;2022.10.21;Inativo Transitável;06:27;VEL PRES JOAO GOULART
+Lapa;2022.10.21;Inativo Transitável;06:55;PC MARREY JUNIOR
+Sé;2022.10.10;Inativo Transitável;05:52;AV RUDGE
+Sé;2022.10.10;Inativo Intransitável;07:36;AV MERCURIO
+Vila Mariana;2022.10.10;Inativo Transitável;14:30;AV DOS BANDEIRANTES
+Vila Maria/ Vila Guilherme;2022.10.09;Inativo Intransitável;22:36;AV MORVAN DIAS DE FIGUEIREDO
+Vila Mariana;2022.10.09;Inativo Transitável;15:53;AV STO AMARO
+Sé;2022.09.30;Inativo Transitável;16:34;AL NOTHMANN
+Sé;2022.09.30;Inativo Transitável;16:46;AL NOTHMANN
+Penha;2022.09.30;Inativo Transitável;17:35;CV ARIETA CALFATKHOURY FARAH
+Sé;2022.09.29;Inativo Transitável;11:32;R PEDRO TAQUES
+Capela do Socorro;2022.09.29;Inativo Transitável;05:29;AV JAIR RIBEIRO DA SILVA
+Santo Amaro;2022.09.29;Inativo Intransitável;05:25;R MIGUEL YUNES
+Pirituba/Jaraguá;2022.09.28;Inativo Transitável;08:04;R DOMINGOS ANTONIO GOMES
+Penha;2022.09.28;Inativo Intransitável;07:21;AV SALIM FARAH MALUF
+Vila Mariana;2022.09.28;Inativo Intransitável;07:10;AV STO AMARO
+Casa Verde;2022.09.27;Inativo Intransitável;18:29;AV DEP EMILIO CARLOS
+Casa Verde;2022.09.27;Inativo Intransitável;19:59;AV DEP EMILIO CARLOS
+Sé;2022.09.27;Inativo Intransitável;14:40;R PRES BATISTA PEREIRA
+Sé;2022.09.27;Inativo Intransitável;14:52;R PRES BATISTA PEREIRA
+Sé;2022.09.27;Inativo Transitável;18:11;TN S JOAO PAULO II
+Sé;2022.09.27;Inativo Transitável;18:47;TN JOSE ROBERTO F. MELHEM
+Sé;2022.09.27;Inativo Transitável;19:05;AV RUDGE
+Sé;2022.09.27;Inativo Transitável;19:07;AV RUDGE
+Sé;2022.09.27;Inativo Transitável;19:19;AV PRES CASTELO BRANCO
+Sé;2022.09.27;Inativo Intransitável;19:30;AV REBOUCAS
+Butantã;2022.09.27;Inativo Intransitável;18:22;R MIN EDMUNDO LINS
+Butantã;2022.09.27;Inativo Intransitável;18:30;TV IRMA DOLORES BALDI
+Lapa;2022.09.27;Inativo Intransitável;14:25;AV FRANCISCO MATARAZZO
+Lapa;2022.09.27;Inativo Transitável;18:24;AV ANTARTICA
+Lapa;2022.09.27;Inativo Transitável;18:28;R ROBERT BOSCH
+Lapa;2022.09.27;Inativo Intransitável;19:12;R JOSE DE OLIVEIRA COUTINHO
+Lapa;2022.09.27;Inativo Intransitável;19:37;PC PASCOAL MARTINS
+Pinheiros;2022.09.27;Inativo Transitável;18:37;R HENRIQUE SCHAUMANN
+Itaquera;2022.09.27;Inativo Transitável;14:36;R ARARA AZUL
+Itaquera;2022.09.27;Inativo Intransitável;14:40;R CUNHA PORÃ
+Itaquera;2022.09.27;Inativo Intransitável;14:45;AV ITAQUERA
+Itaquera;2022.09.27;Inativo Intransitável;15:02;AV ITAQUERA
+Itaquera;2022.09.27;Inativo Intransitável;15:15;R ITAGIMIRIM
+Mooca;2022.09.27;Inativo Intransitável;14:29;R BRESSER
+Mooca;2022.09.27;Inativo Intransitável;14:31;AV ALCANTARA MACHADO
+Mooca;2022.09.27;Inativo Transitável;14:54;R FREI BERTOLDO
+Penha;2022.09.27;Inativo Intransitável;14:40;AV DOM HELDER CAMARA
+Penha;2022.09.27;Inativo Intransitável;14:45;R DR LUIS AIRES
+Vila Mariana;2022.09.27;Inativo Transitável;13:59;AV VINTE E TRES DE MAIO
+Penha;2022.09.26;Inativo Transitável;10:52;TV RIBEIRO VIANA
+Parelheiros;2022.09.26;Inativo Transitável;08:54;AV SEN TEOTONIO VILELA
+Parelheiros;2022.09.26;Inativo Transitável;08:56;AV SEN TEOTONIO VILELA
+Santo Amaro;2022.09.26;Inativo Intransitável;08:43;R MIGUEL YUNES
+São Miguel Paulista;2022.09.22;Inativo Transitável;09:48;AV JACUPESSEGO N TRABALHADORES
+Sé;2022.09.20;Inativo Transitável;07:23;AV RIO BRANCO
+São Miguel Paulista;2022.09.20;Inativo Transitável;08:30;AV JACU PESSEGO N TRABALHADORES
+Penha;2022.09.20;Inativo Intransitável;06:34;CV ARIETA CALFAT KHOURY FARAH
+M'Boi Mirim;2022.09.20;Inativo Transitável;05:27;AV CARLOS CALDEIRA FILHO
+Lapa;2022.09.18;Inativo Transitável;08:31;AV MARQ.DE SAO VICENTE
+Vila Prudente;2022.09.14;Inativo Transitável;20:43;AV DO ESTADO
+Sé;2022.09.07;Inativo Transitável;08:50;R BR.DE CAMPINAS
+Pinheiros;2022.06.10;Inativo Intransitável;06:42;AV STO AMARO
+Santo Amaro;2022.06.10;Inativo Transitável;05:08;R MIGUEL YUNES
+Casa Verde;2022.05.30;Inativo Transitável;21:10;AV ANTONIO MUNHOZ BONILHA
+Casa Verde;2022.05.30;Inativo Transitável;21:23;R BENEDITO AUGUSTO FERREIRA
+Sé;2022.05.30;Inativo Intransitável;19:23;AV RIO BRANCO
+Sé;2022.05.30;Inativo Transitável;19:29;R TEODORO SAMPAIO
+Butantã;2022.05.30;Inativo Intransitável;19:24;AV PROF FRANCISCO MORATO
+Santo Amaro;2022.05.30;Inativo Transitável;22:02;AV DAS NACOES UNIDAS
+Vila Mariana;2022.05.30;Inativo Intransitável;19:25;AV STO AMARO
+Sé;2022.05.11;Inativo Transitável;19:38;AV RIO BRANCO
+Vila Maria/ Vila Guilherme;2022.04.15;Inativo Transitável;17:42;R MARIA CANDIDA
+Vila Maria/ Vila Guilherme;2022.04.08;Inativo Intransitável;21:12;RUA CEL MARQUES
+Penha;2022.04.08;Inativo Intransitável;20:55;AV PDE ESTANISLAU DE CAMPOS
+Vila Maria/ Vila Guilherme;2022.04.04;Inativo Transitável;18:50;R MAGARINOS TORRES
+Santo Amaro;2022.03.28;Inativo Transitável;20:19;AVENIDA DAS NAÇÕES UNIDAS
+Sé;2022.03.26;Inativo Transitável;21:23;PRAÇA DA BANDEIRA
+Vila Maria/ Vila Guilherme;2022.03.25;Inativo Transitável;19:04;R MARIA CANDIDA
+Freguesia do Ó;2022.03.21;Inativo Intransitável;06:34;AV INAJAR DE SOUZA
+Vila Maria/ Vila Guilherme;2022.03.16;Inativo Intransitável;15:04;R JOSE BERNARDO PINTO
+Sé;2022.03.16;Inativo Transitável;14:28;ALAMEDA SANTOS
+Aricanduva/ Vila Formosa;2022.03.16;Inativo Intransitável;15:33;R PINHALZINHO
+Penha;2022.03.16;Inativo Intransitável;13:32;AV PDE ESTANISLAU DE CAMPOS
+Penha;2022.03.16;Inativo Intransitável;15:53;AV CD.DE FRONTIN
+Penha;2022.03.16;Inativo Transitável;16:13;AV CD.DE FRONTIN
+Vila Prudente;2022.03.16;Inativo Transitável;15:45;R SUSANA
+M'Boi Mirim;2022.03.16;Inativo Intransitável;16:31;AV GUARAPIRANGA
+Santo Amaro;2022.03.16;Inativo Transitável;16:05;AV INTERLAGOS
+Santo Amaro;2022.03.16;Inativo Transitável;18:45;AV STO AMARO
+Casa Verde;2022.03.15;Inativo Intransitável;01:10;AV ANTONIO MUNHOZ BONILHA
+Jaçanã/ Tremembé;2022.03.15;Inativo Intransitável;15:24;AVENIDA EDU CHAVES
+Vila Maria/ Vila Guilherme;2022.03.15;Inativo Transitável;18:04;RUA CHICO PONTES
+Pirituba/Jaraguá;2022.03.15;Inativo Intransitável;01:10;AV CBO ADAO PEREIRA
+Pirituba/Jaraguá;2022.03.15;Inativo Intransitável;01:10;AV RAIMUNDO PEREIRA DE MAGALHÃES
+Pirituba/Jaraguá;2022.03.15;Inativo Transitável;01:38;AV RAIMUNDO PEREIRA DE MAGALHÃES
+Perus;2022.03.15;Inativo Intransitável;16:32;ESTRADA DE LIGAÇÃO
+Santana;2022.03.15;Inativo Transitável;16:37;AVENIDA PRES CASTELO BRANCO
+Sé;2022.03.15;Inativo Intransitável;15:32;AVENIDA SANTOS DUMONT
+Sé;2022.03.15;Inativo Intransitável;16:01;RUA SEBASTIÃO PEREIRA
+Sé;2022.03.15;Inativo Intransitável;16:04;RUA DR PLINIO BARRETO
+Sé;2022.03.15;Inativo Intransitável;16:11;PÇ DA BANDEIRA
+Sé;2022.03.15;Inativo Intransitável;16:24;RS PAULO
+Sé;2022.03.15;Inativo Transitável;16:35;MARGINAL TIETÊ CBAS CENTRAL
+Sé;2022.03.15;Inativo Intransitável;17:25;PÇ DA BANDEIRA
+Lapa;2022.03.15;Inativo Intransitável;09:19;R GUSTAV WILLI BORGHOFF
+Lapa;2022.03.15;Inativo Transitável;16:13;AV DR GASTÃO VIDIGAL
+Lapa;2022.03.15;Inativo Intransitável;16:23;RUA GUSTAV WILLI BORGHOFF
+Lapa;2022.03.15;Inativo Transitável;16:24;RUA QUIRINO DOS SANTOS
+Lapa;2022.03.15;Inativo Transitável;16:26;AV DR BENTO TEOBALDO FERRAZ
+Lapa;2022.03.15;Inativo Transitável;17:55;RUA BARÃO DE POMBALINHO
+Pinheiros;2022.03.15;Inativo Intransitável;15:46;RUA JOÃO MOURA
+Pinheiros;2022.03.15;Inativo Intransitável;16:00;PÇ PAN AMERICANA
+Pinheiros;2022.03.15;Inativo Intransitável;16:07;RUA LUIZ MURAT
+Pinheiros;2022.03.15;Inativo Intransitável;17:25;RUA HARMONIA
+Pinheiros;2022.03.15;Inativo Transitável;17:52;RUA BRIG HAROLDO VELOSO
+Vila Prudente;2022.03.15;Inativo Transitável;10:02;AV DO ESTADO
+Santo Amaro;2022.03.15;Inativo Transitável;06:19;R MIGUEL YUNES
+Vila Mariana;2022.03.15;Inativo Transitável;06:14;CV JOAO JORGE SAAD
+Vila Mariana;2022.03.15;Inativo Transitável;16:00;AL SANTOS
+Sé;2022.03.14;Inativo Transitável;12:42;AV RIO BRANCO
+Sé;2022.03.14;Inativo Transitável;12:42;AV RIO BRANCO
+Sé;2022.03.14;Inativo Intransitável;14:59;R PRES BATISTA PEREIRA
+Sé;2022.03.14;Inativo Transitável;19:41;R MAJ SERTORIO
+Butantã;2022.03.14;Inativo Intransitável;14:09;AV PROF FRANCISCO MORATO
+São Miguel Paulista;2022.03.14;Inativo Intransitável;14:28;AV S MIGUEL
+Penha;2022.03.14;Inativo Intransitável;12:10;R DR LUIZ AYRES
+Penha;2022.03.14;Inativo Intransitável;13:25;AV PDE SENA FREITAS
+Penha;2022.03.14;Inativo Transitável;13:43;R DR LUIZ AYRES
+Cidade Ademar;2022.03.14;Inativo Transitável;14:43;R DAS FLECHAS
+Santo Amaro;2022.03.14;Inativo Transitável;14:19;AV ROQUE PETRONI JUNIOR
+Vila Mariana;2022.03.14;Inativo Intransitável;12:21;AV VINTE E TRES DE MAIO
+Vila Mariana;2022.03.14;Inativo Transitável;12:47;AV IBIRAPUERA
+Vila Mariana;2022.03.14;Inativo Intransitável;12:48;AV DOS BANDEIRANTES
+Vila Mariana;2022.03.14;Inativo Intransitável;13:11;AV VINTE E TRES DE MAIO
+Vila Maria/ Vila Guilherme;2022.03.13;Inativo Intransitável;16:41;AV GUILHERME
+Vila Maria/ Vila Guilherme;2022.03.13;Inativo Intransitável;16:49;R CORONEL MARQUES RIBEIRO
+Vila Maria/ Vila Guilherme;2022.03.13;Inativo Intransitável;16:52;AV MORVAN DIAS DE FIGUEIREDO
+Vila Maria/ Vila Guilherme;2022.03.13;Inativo Intransitável;17:26;R CORONEL MARQUES
+Mooca;2022.03.13;Inativo Intransitável;18:27;AV ALCANTARA MACHADO
+Penha;2022.03.13;Inativo Intransitável;18:44;R DR LUIZ AYRES
+Vila Prudente;2022.03.13;Inativo Intransitável;17:53;AV SAPOBEMBA
+Santo Amaro;2022.03.13;Inativo Intransitável;17:22;AV INTERLAGOS
+Santo Amaro;2022.03.13;Inativo Intransitável;17:26;AV DAS NAÇÕES UNIDAS
+Ipiranga;2022.03.13;Inativo Transitável;16:39;AV DO ESTADO
+Vila Mariana;2022.03.13;Inativo Intransitável;16:51;AV DOS BANDEIRANTES
+Vila Mariana;2022.03.13;Inativo Transitável;16:54;AV SANTO AMARO
+Vila Mariana;2022.03.13;Inativo Intransitável;17:04;AV MOREIRA GUIMARAES
+Vila Mariana;2022.03.13;Inativo Transitável;18:06;AV IBIRAPUERA
+Vila Maria/ Vila Guilherme;2022.03.12;Inativo Intransitável;07:34;MARGINAL TIETÊ ASCB CENTRAL
+Santana;2022.03.12;Inativo Intransitável;03:58;R. TABOR EST
+Santana;2022.03.12;Inativo Transitável;07:39;RUA DARZAN
+Santana;2022.03.12;Inativo Transitável;08:04;AVENIDA ZAKI NARCHI
+Sé;2022.03.12;Inativo Intransitável;03:18;PRAÇA 14 BIS
+Sé;2022.03.12;Inativo Intransitável;03:31;PRAÇA 14 BIS
+Sé;2022.03.12;Inativo Transitável;07:39;MARGINAL TIETÊ ASCB EXPRESSA
+Butantã;2022.03.12;Inativo Transitável;04:31;AV MAGALHÃES DE CASTRO
+Butantã;2022.03.12;Inativo Transitável;04:44;AV PROF FRANCOSCO MORATO
+Butantã;2022.03.12;Inativo Transitável;04:55;AV PROF FRANCISCO MORATO
+Butantã;2022.03.12;Inativo Transitável;04:55;AV PROF FRANCISCO MORATO
+Butantã;2022.03.12;Inativo Intransitável;05:11;AV PROF FRANCISCO MORATO
+Lapa;2022.03.12;Inativo Intransitável;06:00;RUA ALBIO
+Pinheiros;2022.03.12;Inativo Intransitável;04:00;AV. DAS NAÇÕES UNIDAS
+Pinheiros;2022.03.12;Inativo Intransitável;04:57;AV. BRIG. HAROLDO VELOSO
+Aricanduva/ Vila Formosa;2022.03.12;Inativo Intransitável;04:00;AV.ARICANDUVA
+Aricanduva/ Vila Formosa;2022.03.12;Inativo Intransitável;07:25;RUA COMENDADOR GIL PINHEIRO
+Itaquera;2022.03.12;Inativo Intransitável;03:40;R.PADRE VIEGAS DE MENEZES
+Itaquera;2022.03.12;Inativo Intransitável;04:00;R. ITAGIMIRIM
+Itaquera;2022.03.12;Inativo Intransitável;04:00;R TOMAZZO FERRARA
+Penha;2022.03.12;Inativo Intransitável;04:27;RUA DR. LUIZ AYRES
+Penha;2022.03.12;Inativo Intransitável;07:09;RUA DR LUIZ AYRES
+São Mateus;2022.03.12;Inativo Intransitável;04:47;AV ARICANDUVA
+Vila Prudente;2022.03.12;Inativo Intransitável;04:10;AV. PROF LUIZ IGNACIO DE ANHAIA MELLO
+Vila Prudente;2022.03.12;Inativo Intransitável;04:10;AV. PROF LUIZ IGNACIO DE ANHAIA MELLO
+Vila Prudente;2022.03.12;Inativo Intransitável;04:52;AV PROF LUIZ ANHAIA MELLO
+Vila Prudente;2022.03.12;Inativo Intransitável;04:52;AV PROF LUIZ ANHAIA MELLO
+Campo Limpo;2022.03.12;Inativo Intransitável;03:18;AV CARLOS CALDEIRA FILHO
+Campo Limpo;2022.03.12;Inativo Intransitável;03:40;AV. GIOVANNI GRONCHI
+Campo Limpo;2022.03.12;Inativo Intransitável;03:51;AVENIDA CARLOS CALDEIRA FILHO
+Campo Limpo;2022.03.12;Inativo Intransitável;04:20;JOÃO DIAS
+Campo Limpo;2022.03.12;Inativo Intransitável;04:57;RUA JOAQUIM NUNES TEIXEIRA
+Campo Limpo;2022.03.12;Inativo Intransitável;05:40;AVENIDA CARLOS CALDEIRA FILHO
+Santo Amaro;2022.03.12;Inativo Transitável;03:48;MARGINAL PINHEIROS
+Santo Amaro;2022.03.12;Inativo Intransitável;04:10;AV. DAS NAÇÕES UNIDAS
+Santo Amaro;2022.03.12;Inativo Intransitável;04:15;AV. SANTO AMARO
+Santo Amaro;2022.03.12;Inativo Transitável;04:16;MARGINAL PINHEIROS INTCB
+Santo Amaro;2022.03.12;Inativo Intransitável;04:18;AV. SANTO AMARO
+Ipiranga;2022.03.12;Inativo Intransitável;03:22;AV PROF ABRAAO DE MORAIS
+Vila Mariana;2022.03.12;Inativo Intransitável;03:18;AV VINTE E TRES DE MAIO
+Vila Mariana;2022.03.12;Inativo Intransitável;03:22;AV DOS BANDEIRANTES
+Vila Mariana;2022.03.12;Inativo Intransitável;03:27;AV MOREIRA GUIMARAES
+Vila Mariana;2022.03.12;Inativo Intransitável;03:40;RUBEM BERTA
+Vila Mariana;2022.03.12;Inativo Intransitável;05:15;AV PROF ASCENDINO REIS
+Vila Mariana;2022.03.12;Inativo Transitável;05:47;AVENIDA SANTO AMARO
+Penha;2022.03.11;Inativo Transitável;07:48;AV S JOAO
+Mooca;2022.03.10;Inativo Intransitável;17:44;R SERRA DE BRAGANÇA
+Penha;2022.03.10;Inativo Intransitável;18:45;AV CELSO GARCIA
+Penha;2022.03.10;Inativo Intransitável;18:50;AV PDE ESTANISLAU DE CAMPOS
+Vila Maria/ Vila Guilherme;2022.03.09;Inativo Transitável;16:24;AVENIDA ATALIBA LEONEL
+Itaquera;2022.03.07;Inativo Transitável;17:56;R DR AURELIANO BARREIROS
+São Miguel Paulista;2022.03.07;Inativo Transitável;16:33;AV JACU PESSEGO N TRABALHADORES
+São Miguel Paulista;2022.03.07;Inativo Transitável;16:54;AV JACU PESSEGO N TRABALHADORES
+São Miguel Paulista;2022.03.07;Inativo Transitável;17:17;R DR ASSIS RIBEIRO
+São Miguel Paulista;2022.03.07;Inativo Transitável;17:18;AV MAL TITO
+Penha;2022.03.07;Inativo Transitável;16:44;R DR LUIZ AYRES
+M'Boi Mirim;2022.03.07;Inativo Transitável;15:46;AV GUARAPIRANGA
+Santo Amaro;2022.03.07;Inativo Transitável;15:57;AV DAS NAÇÕES UNIDAS
+Pinheiros;2022.03.06;Inativo Transitável;08:19;VD STO AMARO
+Butantã;2022.03.05;Inativo Transitável;16:11;AV. PROF FRANCISCO MORATO
+Lapa;2022.03.05;Inativo Intransitável;16:21;AV. POMPEIA
+Lapa;2022.03.05;Inativo Intransitável;16:23;AV. ANTARTICA
+Lapa;2022.03.05;Inativo Intransitável;16:25;R. PALESTRA ITALIA
+Lapa;2022.03.05;Inativo Intransitável;16:36;AV. POMPEIA
+Lapa;2022.03.05;Inativo Intransitável;16:39;R. CLELIA
+Lapa;2022.03.05;Inativo Intransitável;16:41;AV. MARQUES DE SÃO VICENTE
+Lapa;2022.03.05;Inativo Intransitável;16:50;R. TRAJANO
+Pinheiros;2022.03.05;Inativo Intransitável;16:14;R. LUIS MURAT
+Santo Amaro;2022.03.05;Inativo Intransitável;17:16;AV. VITOR MANZINI
+Vila Maria/ Vila Guilherme;2022.03.04;Inativo Transitável;16:35;AV GAL ATALIBA LEONEL
+Sé;2022.03.04;Inativo Transitável;19:10;R MAJ SERTORIO
+Pinheiros;2022.03.04;Inativo Intransitável;17:54;VD ENG ANTONIO MOLITERNO
+Aricanduva/ Vila Formosa;2022.03.04;Inativo Intransitável;14:47;R CARLOS SILVA
+Mooca;2022.03.04;Inativo Intransitável;14:21;R SILVA JARDIM
+Mooca;2022.03.04;Inativo Intransitável;15:06;R PRES BATISTA PEREIRA
+São Miguel Paulista;2022.03.04;Inativo Intransitável;17:12;R DR ASSIS RIBEIRO
+Vila Prudente;2022.03.04;Inativo Intransitável;14:35;AV PROF. LUIZ IGNACIO DE ANHAIA MELO
+Capela do Socorro;2022.03.04;Inativo Transitável;15:01;AV ATLANTICA
+M'Boi Mirim;2022.03.04;Inativo Intransitável;15:22;AV GUARAPIRANGA
+Santo Amaro;2022.03.04;Inativo Intransitável;14:52;AV ROQUE PETRONI JUNIOR
+Santo Amaro;2022.03.04;Inativo Transitável;15:25;AV DR CHUCRI ZAIDAN
+Santo Amaro;2022.03.04;Inativo Intransitável;15:45;AV DR LINO DE MORAES LEME
+Freguesia do Ó;2022.03.03;Inativo Intransitável;17:27;R BONIFACIO CUBAS
+Freguesia do Ó;2022.03.03;Inativo Transitável;17:36;R ANTONIETA LEITAO
+Freguesia do Ó;2022.03.03;Inativo Intransitável;18:13;R ENEIAS LUIS CARLOS BARBANTI
+Sé;2022.03.03;Inativo Transitável;17:42;R MAJ SERTORIO
+Casa Verde;2022.03.01;Inativo Intransitável;19:25;AV ANTONIO MUNHOZ BONILHA
+Pirituba/Jaraguá;2022.03.01;Inativo Intransitável;19:50;AV RAIMUNDO PEREIRA DE MAGALHAES
+Pirituba/Jaraguá;2022.03.01;Inativo Intransitável;20:16;PSS FANDI CHAQUIB KALIL
+Sé;2022.03.01;Inativo Transitável;17:18;R DA MOOCA
+Sé;2022.03.01;Inativo Intransitável;18:52;AV MARQ.DE SAO VICENTE
+Sé;2022.03.01;Inativo Intransitável;18:56;TN S JOAO PAULO II
+Sé;2022.03.01;Inativo Intransitável;19:10;AV REBOUCAS
+Sé;2022.03.01;Inativo Intransitável;19:11;R CAP JERONIMO LEITAO
+Sé;2022.03.01;Inativo Intransitável;19:13;VEL PRES JOAO GOULART
+Sé;2022.03.01;Inativo Intransitável;19:15;R CAPISTRANO DE ABREU
+Sé;2022.03.01;Inativo Intransitável;20:34;R MANOEL DUTRA
+Butantã;2022.03.01;Inativo Transitável;19:46;R ALVARENGA
+Butantã;2022.03.01;Inativo Transitável;20:07;AV PROF FRANCISCO MORATO
+Butantã;2022.03.01;Inativo Intransitável;20:46;AV MAGALHAES DE CASTRO
+Lapa;2022.03.01;Inativo Intransitável;18:46;PC PASCOAL MARTINS
+Lapa;2022.03.01;Inativo Intransitável;19:22;AV THOMAS EDISON
+Lapa;2022.03.01;Inativo Intransitável;19:22;R GUSTAV WILLI BORGHOFF
+Lapa;2022.03.01;Inativo Transitável;19:23;AV ORDEM E PROGRESSO
+Pinheiros;2022.03.01;Inativo Intransitável;19:21;AV DIOGENES RIBEIRO DE LIMA
+Pinheiros;2022.03.01;Inativo Transitável;22:09;VD ENG ANTONIO MOLITERNO
+Mooca;2022.03.01;Inativo Intransitável;16:02;R FREI BERTOLDO
+Mooca;2022.03.01;Inativo Transitável;19:41;AV ALCANTARA MACHADO
+Mooca;2022.03.01;Inativo Intransitável;19:42;R BRESSER
+São Miguel Paulista;2022.03.01;Inativo Intransitável;17:45;R DR ASSIS RIBEIRO
+Penha;2022.03.01;Inativo Transitável;15:22;AV DR BERNARDINO BRITO F.DE CARVALHO
+Penha;2022.03.01;Inativo Transitável;15:40;AV ANTONIO ESTEVAO DE CARVALHO
+Penha;2022.03.01;Inativo Intransitável;16:00;AV AIRTON PRETINI
+Penha;2022.03.01;Inativo Transitável;20:11;AV CD.DE FRONTIN
+Vila Prudente;2022.03.01;Inativo Intransitável;19:36;AV PAES DE BARROS
+Vila Prudente;2022.03.01;Inativo Intransitável;19:44;AV PROF LUIZ IGNACIO ANHAIA MELLO
+M'Boi Mirim;2022.03.01;Inativo Intransitável;17:36;ES M'BOI MIRIM
+M'Boi Mirim;2022.03.01;Inativo Transitável;17:37;ES M'BOI MIRIM
+Santo Amaro;2022.03.01;Inativo Transitável;20:17;AV VITOR MANZINI
+Santo Amaro;2022.03.01;Inativo Transitável;22:17;MARGINAL PINHEIROS
+Ipiranga;2022.03.01;Inativo Intransitável;20:26;AV TERESA CRISTINA
+Ipiranga;2022.03.01;Inativo Intransitável;21:49;AV TERESA CRISTINA
+Vila Mariana;2022.03.01;Inativo Intransitável;19:23;AV VINTE E TRES DE MAIO
+Vila Mariana;2022.03.01;Inativo Intransitável;19:27;AV VINTE E TRES DE MAIO
+Vila Mariana;2022.03.01;Inativo Intransitável;19:40;AV RUBEM BERTA
+Vila Mariana;2022.03.01;Inativo Intransitável;19:49;AV SANTO AMARO
+Sé;2022.02.23;Inativo Transitável;15:12;PÇA DA BANDEIRA
+Pinheiros;2022.02.23;Inativo Intransitável;15:35;R BRIG HAROLDO VELOSO
+Itaquera;2022.02.23;Inativo Transitável;15:57;R DR AURELIANO BARREIROS
+Penha;2022.02.23;Inativo Intransitável;16:08;R DR LUIZ AYRES
+Penha;2022.02.23;Inativo Transitável;16:11;AV CD.DE FRONTIN
+Jaçanã/ Tremembé;2022.02.22;Inativo Transitável;16:30;AV USHIKICHI KAMIYA
+Mooca;2022.02.17;Inativo Transitável;15:41;AV ALCANTARA MACHADO
+Vila Prudente;2022.02.17;Inativo Intransitável;15:58;AV PROF LUIZ IGNACIO ANHAIA MELLO
+Vila Prudente;2022.02.17;Inativo Intransitável;15:58;R VISC.DE GOIANA
+Itaquera;2022.02.07;Inativo Transitável;09:44;AV ARICANDUVA
+Penha;2022.02.07;Inativo Transitável;09:06;R DR LUIZ AYRES
+Penha;2022.02.07;Inativo Intransitável;09:39;AV CD.DE FRONTIN
+Santo Amaro;2022.02.07;Inativo Transitável;08:34;AV SANTO AMARO
+Santo Amaro;2022.02.07;Inativo Transitável;08:38;AV DAS NACOES UNIDAS
+Santo Amaro;2022.02.07;Inativo Transitável;09:25;MARGINAL PINHEIROS
+Santo Amaro;2022.02.07;Inativo Transitável;09:52;AV DAS NACOES UNIDAS
+Santo Amaro;2022.02.07;Inativo Transitável;10:40;R MIGUEL YUNES
+São Miguel Paulista;2022.02.03;Inativo Transitável;14:41;R DR ASSIS RIBEIRO
+Santo Amaro;2022.02.03;Inativo Transitável;07:31;R MIGUEL YUNES
+Sé;2022.02.02;Inativo Transitável;06:27;AV MERCURIO
+Butantã;2022.02.02;Inativo Transitável;07:33;AV MIN LAUDO FERREIRA DE CAMARGO
+Butantã;2022.02.02;Inativo Intransitável;11:01;AV MIN LAUDO FERREIRA DE CAMARGO
+São Miguel Paulista;2022.02.02;Inativo Transitável;15:42;AV PIRES DO RIO
+Parelheiros;2022.02.02;Inativo Transitável;15:44;ES ECOTURISTICA DE PARELHEIROS
+Parelheiros;2022.02.02;Inativo Transitável;16:32;ES ECOTURISTICA DE PARELHEIROS
+Santo Amaro;2022.02.02;Inativo Intransitável;15:03;R MIGUEL YUNES
+Vila Mariana;2022.02.02;Inativo Intransitável;16:31;AV PROF ASCENDINO REIS
+Perus;2022.02.01;Inativo Intransitável;18:10;PC INACIO DIAS
+Sé;2022.02.01;Inativo Transitável;16:34;AV RIO BRANCO
+Sé;2022.02.01;Inativo Transitável;16:40;AV RIO BRANCO
+Vila Mariana;2022.02.01;Inativo Intransitável;16:31;AV VINTE E TRES DE MAIO
+Sé;2022.01.31;Inativo Intransitável;06:21;AV MERCURIO
+Lapa;2022.01.31;Inativo Transitável;14:22;AV ENG BILLINGS
+Vila Prudente;2022.01.31;Inativo Transitável;09:44;AV DO ESTADO
+Santo Amaro;2022.01.31;Inativo Transitável;08:23;R MIGUEL YUNES
+Sé;2022.01.30;Inativo Transitável;07:50;AV. RIO BRANCO
+Sé;2022.01.30;Inativo Transitável;09:07;RUA DA FIGUEIRA
+Lapa;2022.01.30;Inativo Transitável;03:49;AV. ENG. BILLINGS
+Lapa;2022.01.30;Inativo Transitável;05:29;AV. ENG. BILLINGS
+Lapa;2022.01.30;Inativo Transitável;06:30;AV. ENG. BILLINGS
+Pinheiros;2022.01.30;Inativo Transitável;06:34;VD. ENG. ANTONIO MOLITERNO
+Penha;2022.01.30;Inativo Transitável;07:47;AV. CD. DE FRONTIN
+Penha;2022.01.30;Inativo Transitável;08:13;AV. CELSO GARCIA
+Santo Amaro;2022.01.30;Inativo Transitável;01:22;MARGINAL PINHEIROS-EXPRESSA
+Sé;2022.01.29;Inativo Transitável;11:51;AV. CRUZEIRO DO SUL
+Sé;2022.01.29;Inativo Transitável;14:22;AV. MERCURIO
+Butantã;2022.01.29;Inativo Transitável;13:47;AV. PROF FRANCISCO MORATO
+Butantã;2022.01.29;Inativo Intransitável;14:55;AV. JULES RIMET
+Lapa;2022.01.29;Inativo Transitável;19:36;R GUSTAV WILLI BORGHOFF
+Santo Amaro;2022.01.29;Inativo Intransitável;07:19;AV. STO AMARO
+Santo Amaro;2022.01.29;Inativo Transitável;23:18;RUA MIGUEL YUNES
+Perus;2022.01.28;Inativo Transitável;14:02;R FRANCIS DE CASTEUNAL
+Sé;2022.01.28;Inativo Transitável;06:13;AV. MERCURIO
+Sé;2022.01.28;Inativo Intransitável;07:28;R PRES. COSTA PINTO
+Sé;2022.01.28;Inativo Transitável;08:42;R ROBERTO SIMONSEN
+Sé;2022.01.28;Inativo Transitável;08:49;R SEN. FEIJÓ
+Sé;2022.01.28;Inativo Transitável;14:56;AV MERCURIO
+Butantã;2022.01.28;Inativo Transitável;06:17;AV PROF. FRANCISCO MORATO
+Lapa;2022.01.28;Inativo Transitável;07:29;AV. ENG. BILLINGS
+Lapa;2022.01.28;Inativo Transitável;08:39;AV. ENG. BILLINGS
+Lapa;2022.01.28;Inativo Transitável;16:04;R GUSTAV WILLI BORGHOFF
+Itaquera;2022.01.28;Inativo Transitável;07:14;R ITALINA
+Penha;2022.01.28;Inativo Transitável;13:56;AV CD. DE FRONTIN
+Ipiranga;2022.01.28;Inativo Transitável;02:43;AV PRES. TANCREDO NEVES
+Vila Mariana;2022.01.28;Inativo Transitável;07:11;AV. SANTO AMARO
+Vila Mariana;2022.01.28;Inativo Transitável;07:15;AV. SANTO AMARO
+Campo Limpo;2022.01.27;Inativo Intransitável;20:07;AV ELLIS MAAS
+Campo Limpo;2022.01.27;Inativo Intransitável;22:09;AV ELLIS MAAS
+Itaquera;2022.01.26;Inativo Transitável;17:20;AV JACU PESSEGO
+Itaquera;2022.01.26;Inativo Intransitável;17:56;R CUNHA PORÃ
+Itaquera;2022.01.26;Inativo Intransitável;18:36;AV ITAQUERA
+Mooca;2022.01.26;Inativo Intransitável;18:54;AV ALCANTARA MACHADO
+Penha;2022.01.26;Inativo Intransitável;18:05;R PDE VIEGAS DE MENEZES
+Penha;2022.01.26;Inativo Intransitável;18:11;AV DOM HELDER CÂMARA
+Penha;2022.01.26;Inativo Intransitável;18:20;R MARIA LEOCADIA
+Penha;2022.01.26;Inativo Intransitável;18:50;AV CD.DE FRONTIN
+Penha;2022.01.26;Inativo Intransitável;18:52;AV CD.DE FRONTIN
+Penha;2022.01.26;Inativo Intransitável;18:55;AV BERNARDINO BRITO FONSECA DE CARVALHO
+Vila Prudente;2022.01.26;Inativo Intransitável;18:27;AV PROF LUIZ IGNACIO ANHAIA MELLO
+Vila Prudente;2022.01.26;Inativo Intransitável;18:34;AV DO ESTADO
+Vila Prudente;2022.01.26;Inativo Intransitável;18:42;AV PROF LUIZ IGNACIO ANHAIA MELLO
+Ipiranga;2022.01.26;Inativo Intransitável;18:55;R DOIS DE JULHO
+Ipiranga;2022.01.26;Inativo Intransitável;18:58;R ALENCAR DE ARARIPE
+Ipiranga;2022.01.26;Inativo Intransitável;19:05;AV PROF ABRAAO DE MORAIS
+Ipiranga;2022.01.26;Inativo Intransitável;19:13;R SILVA BUENO
+Ipiranga;2022.01.26;Inativo Transitável;19:15;AV TERESA CRISTINA
+Ipiranga;2022.01.26;Inativo Intransitável;21:54;PC ALTEMAR DUTRA
+Vila Mariana;2022.01.26;Inativo Intransitável;19:05;AV PROF ABRAAO DE MORAIS
+Vila Mariana;2022.01.26;Inativo Intransitável;19:12;AV PROF ABRAAO DE MORAIS
+Vila Mariana;2022.01.26;Inativo Intransitável;19:22;AV RUBEM BERTA
+Penha;2022.01.25;Inativo Intransitável;15:26;R DR LUIZ AYRES
+Lapa;2022.01.21;Inativo Transitável;06:49;AV ENG BILLINGS
+Casa Verde;2022.01.20;Inativo Transitável;17:20;AV ANTONIO MUNHOZ BONILHA
+Santana;2022.01.20;Inativo Transitável;18:39;R ALFREDO GUEDES
+Sé;2022.01.20;Inativo Intransitável;17:01;PC DA BANDEIRA
+Sé;2022.01.20;Inativo Intransitável;17:26;R PRES COSTA PEREIRA
+Sé;2022.01.20;Inativo Transitável;17:48;AV RUDGE
+Sé;2022.01.20;Inativo Intransitável;17:50;R TEIXEIRA LEITE
+Butantã;2022.01.20;Inativo Transitável;17:01;AV CORIFEU DE AZEVEDO NARQUES
+Lapa;2022.01.20;Inativo Intransitável;16:55;R CLELIA
+Lapa;2022.01.20;Inativo Intransitável;17:08;AV KENKITI SIMOMOTO
+Lapa;2022.01.20;Inativo Transitável;17:14;AV JAGUARE
+Lapa;2022.01.20;Inativo Intransitável;18:30;AV DR GASTAO VIDIGAL
+Pinheiros;2022.01.20;Inativo Intransitável;16:44;PC APECATU
+Pinheiros;2022.01.20;Inativo Intransitável;16:48;R HENRIQUE SCHAUMANN
+Mooca;2022.01.20;Inativo Intransitável;17:12;AV ALCANTARA MACHADO
+Mooca;2022.01.20;Inativo Intransitável;17:13;R BRESSER
+Mooca;2022.01.20;Inativo Intransitável;17:15;AV ALCANTARA MACHADO
+Mooca;2022.01.20;Inativo Intransitável;17:27;R HIPODROMO
+Mooca;2022.01.20;Inativo Transitável;23:07;AV ALCANTARA MACHADO
+Penha;2022.01.20;Inativo Transitável;17:28;AV ANTONIO ESTEVAO DE CARVALHO
+Penha;2022.01.20;Inativo Transitável;17:32;R DR LUIZ AYRES
+Penha;2022.01.20;Inativo Intransitável;17:45;AV DOM HELDER CAMARA
+Vila Mariana;2022.01.20;Inativo Intransitável;17:55;AV VINTE E TRES DE MAIO
+Jaçanã/ Tremembé;2022.01.19;Inativo Transitável;16:27;AV SANATORIO
+Vila Maria/ Vila Guilherme;2022.01.19;Inativo Transitável;15:41;R CHICO PONTES
+Pirituba/Jaraguá;2022.01.19;Inativo Intransitável;16:07;AV ELISIO CORDEIRO DE SIQUEIRA
+Perus;2022.01.19;Inativo Intransitável;16:24;PC. INACIO DIAS
+Sé;2022.01.19;Inativo Intransitável;15:35;PQ ANHANGABAU
+Sé;2022.01.19;Inativo Transitável;15:59;AV PRES CASTELO BRANCO
+Sé;2022.01.19;Inativo Transitável;15:59;MARGINAL TIETE
+Butantã;2022.01.19;Inativo Transitável;16:01;AV VITAL BRASIL
+Pinheiros;2022.01.19;Inativo Intransitável;15:54;PC APECATU
+Itaquera;2022.01.19;Inativo Transitável;15:20;TN MERGULHAO
+Itaquera;2022.01.19;Inativo Intransitável;15:34;AV PROF FRANCISCO MORATO
+Mooca;2022.01.19;Inativo Intransitável;15:55;AV CELSO GARCIA
+Penha;2022.01.19;Inativo Intransitável;16:30;R BERNARDO JOSE DE LORENA
+Casa Verde;2022.01.18;Inativo Intransitável;17:36;AV. INAJAR DE SOUZA
+Casa Verde;2022.01.18;Inativo Intransitável;17:50;AV. ENG. CAETANO ALVARES
+Freguesia do Ó;2022.01.18;Inativo Intransitável;17:30;AV. JOÃO PAULO I
+Santana;2022.01.18;Inativo Transitável;18:28;TV. OSWALDO NAZARENO LUPATTELLI
+Sé;2022.01.18;Inativo Transitável;18:26;AV RIO BRANCO
+Lapa;2022.01.18;Inativo Transitável;18:11;AV ORDEM E PROGRESSO
+Lapa;2022.01.18;Inativo Intransitável;18:17;R VENANCIO AIRES
+Lapa;2022.01.18;Inativo Intransitável;18:20;AV MARQ.DE SAO VICENTE
+Lapa;2022.01.18;Inativo Intransitável;18:24;AV POMPEIA
+Lapa;2022.01.18;Inativo Intransitável;20:01;R GUSTAV WILLI BORGHOFF
+Sé;2022.01.17;Inativo Transitável;08:44;AL. GLETE
+Casa Verde;2022.01.16;Inativo Intransitável;17:41;AV ANTÔNIO MUNHOZ BONILHA
+Casa Verde;2022.01.16;Inativo Intransitável;17:42;R. CEL. JOAQUIM DE FREITAS
+Casa Verde;2022.01.16;Inativo Intransitável;18:05;R BARTHOLOMEU DO CANTO
+Santana;2022.01.16;Inativo Intransitável;18:43;R ANTONIO DE CARVALHO
+Sé;2022.01.16;Inativo Intransitável;17:10;R CAPISTRANO DE ABREU
+Sé;2022.01.16;Inativo Intransitável;17:53;R RANGEL PESTANA
+Sé;2022.01.16;Inativo Transitável;18:02;AV DO ESTADO
+Sé;2022.01.16;Inativo Transitável;19:08;AV PRES CASTELO BRANCO
+Lapa;2022.01.16;Inativo Transitável;18:16;AV MARQUÊS DE SÃO VICENTE
+Pinheiros;2022.01.16;Inativo Intransitável;17:10;R OLIMPÍADAS
+Aricanduva/ Vila Formosa;2022.01.16;Inativo Intransitável;17:07;AV ARICANDUVA
+Aricanduva/ Vila Formosa;2022.01.16;Inativo Intransitável;17:16;AV ARICANDUVA
+Itaquera;2022.01.16;Inativo Transitável;16:29;R DR LUIZ AYRES
+Itaquera;2022.01.16;Inativo Intransitável;16:42;R CUNHA PORÃ
+Itaquera;2022.01.16;Inativo Intransitável;16:50;R ITAGIMIRIM
+Itaim Paulista;2022.01.16;Inativo Intransitável;16:40;R MANOEL BARBALHO DE LIMA
+Mooca;2022.01.16;Inativo Intransitável;16:52;AV MELO FREIRE
+Mooca;2022.01.16;Inativo Transitável;17:23;AV DO ESTADO
+Mooca;2022.01.16;Inativo Intransitável;17:35;AV. ALCÂNTARA MACHADO
+Mooca;2022.01.16;Inativo Intransitável;17:40;AV CD DE FORTIN
+Mooca;2022.01.16;Inativo Transitável;18:01;AV ALCANTARA MACHADO
+Ipiranga;2022.01.16;Inativo Intransitável;17:06;R TABOR
+Ipiranga;2022.01.16;Inativo Intransitável;17:06;R DOIS DE JULHO
+Vila Mariana;2022.01.16;Inativo Intransitável;16:40;AV JOSÉ MARIA WHITAKER
+Vila Mariana;2022.01.16;Inativo Intransitável;17:04;AV ABRAÃO DE MORAIS
+Vila Mariana;2022.01.16;Inativo Intransitável;17:08;AV VINTE E TRÊS DE MAIO
+Vila Mariana;2022.01.16;Inativo Transitável;17:09;AV DOS BANDEIRANTES
+Mooca;2022.01.13;Inativo Transitável;14:51;AV ALCANTARA MACHADO
+Sé;2022.01.12;Inativo Transitável;08:49;AV DO ESTADO
+Santana;2022.01.11;Inativo Transitável;18:33;AV OTTO BAUMGART
+Sé;2022.01.11;Inativo Transitável;18:23;AV MERCURIO
+Butantã;2022.01.11;Inativo Intransitável;15:10;AV. JULES RIMET
+Butantã;2022.01.11;Inativo Transitável;15:33;AV PROF FRANCISCO MORATO
+Lapa;2022.01.11;Inativo Intransitável;21:31;AV ENG BILLINGS
+Mooca;2022.01.11;Inativo Intransitável;13:40;R. PRES. BATISTA PEREIRA
+Campo Limpo;2022.01.11;Inativo Transitável;15:17;ES. D0 CAMPO LIMPO
+Capela do Socorro;2022.01.11;Inativo Transitável;15:23;AV. GUARAPIRANGA
+Santo Amaro;2022.01.11;Inativo Intransitável;14:20;AV. DAS NAÇÕES UNIDAS
+Santo Amaro;2022.01.11;Inativo Intransitável;15:17;AV. DAS NAÇÕES UNIDAS
+Santo Amaro;2022.01.11;Inativo Transitável;15:30;AV MAJ SYLVIO DE MAGALHAES PADILHA
+Ipiranga;2022.01.11;Inativo Transitável;14:20;AV. PROF. ABRAÃO DE MORAIS
+Vila Mariana;2022.01.11;Inativo Transitável;12:54;AV. MOREIRA GUIMARÃES
+Sé;2022.01.09;Inativo Transitável;19:00;R. BARRA DO TIBAJI
+Sé;2022.01.09;Inativo Transitável;19:01;R. BARRA DO TIBAJI
+Butantã;2022.01.08;Inativo Transitável;09:22;AV. PROF FRANCISCO MORATO
+Pinheiros;2022.01.08;Inativo Transitável;17:59;AV. PEDROSO DE MORAIS
+Santana;2022.01.06;Inativo Transitável;06:08;AV. CRUZEIRO DO SUL
+Butantã;2022.01.06;Inativo Intransitável;15:29;R. DO SIMBOLO
+Santo Amaro;2022.01.06;Inativo Transitável;06:09;R. MIGUEL YUNES
+Itaquera;2022.01.04;Inativo Transitável;12:05;R DR LUIZ AYRES
+Mooca;2022.01.04;Inativo Intransitável;12:29;AV ALCANTARA MACHADO
+Mooca;2022.01.04;Inativo Transitável;12:36;R BRESSER
+Mooca;2022.01.04;Inativo Transitável;12:50;AV CD. DE FRONTIN
+Santo Amaro;2022.01.04;Inativo Transitável;14:38;AV JOAO DIAS
+Jaçanã/ Tremembé;2022.01.03;Inativo Intransitável;14:42;AV SANATORIO
+Aricanduva/ Vila Formosa;2022.01.03;Inativo Intransitável;13:28;AV. ARICANDUVA
+Aricanduva/ Vila Formosa;2022.01.03;Inativo Intransitável;13:46;AV. RIO DAS PEDRAS
+Itaquera;2022.01.03;Inativo Transitável;14:27;AV. JOSE PINHEIRO BORGES
+Itaquera;2022.01.03;Inativo Intransitável;15:03;AV ITAQUERA
+São Mateus;2022.01.03;Inativo Transitável;14:44;AV RAGUEB CHOHFI
+Ipiranga;2022.01.03;Inativo Transitável;14:27;AV. DR RICARDO JAFET
+Sé;2022.01.02;Inativo Intransitável;16:50;RUA MANOEL DUTRA
+Sé;2022.01.02;Inativo Intransitável;16:50;AV.9 DE JULHO
+Sé;2022.01.02;Inativo Intransitável;17:00;AV.9 DE JULHO
+Sé;2022.01.02;Inativo Intransitável;17:00;AV.9 DE JULHO
+Lapa;2022.01.02;Inativo Transitável;16:43;AV. POMPEIA
+Lapa;2022.01.02;Inativo Intransitável;16:50;AV.POMPEIA
+Lapa;2022.01.02;Inativo Intransitável;16:50;AVENIDA QUEIROZ FILHO
+Pinheiros;2022.01.02;Inativo Intransitável;16:50;AVENIDA CIDADE JARDIM
+Pinheiros;2022.01.02;Inativo Intransitável;16:50;MARGINAL PINHEIROS
+Pinheiros;2022.01.02;Inativo Intransitável;17:19;AV.DAS NAÇÕES UNIDAS
+Vila Mariana;2022.01.02;Inativo Intransitável;17:00;AV.23 DE MAIO
+Santana;2023.05.31;Inativo Transitável;06:59;CV EVARISTO COMOLATTI
+Sé;2023.05.31;Inativo Transitável;13:07;R ROBERTO SIMONSEN
+Lapa;2023.05.31;Inativo Transitável;07:48;AV ENG BILLINGS
+Pinheiros;2023.05.31;Inativo Transitável;12:33;R ANTILHAS
+Itaquera;2023.05.31;Inativo Transitável;06:03;AV JACU PESSEGO N TRABALHADORES
