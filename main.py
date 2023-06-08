@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
 import re
 
+
 class Extracao:
     @staticmethod
     def tempo_pause(tempo):
@@ -26,7 +27,6 @@ class Extracao:
         html = response.read()
         return html
 
-
     pass
 
     def salvar_arquivo(self, registro, cont):
@@ -37,46 +37,62 @@ class Extracao:
             arquivo.write(';'.join(registro) + '\n')
         print(cont)
 
+    def data_final(self, year, month, day):
+        from datetime import datetime
+
+        self.datafinal = datetime(year=year, month=month, day=day)
+        return self.datafinal
+
+    def executar_extracao(self):
+
+        # datafinal = datetime(year=2022, month=1, day=1)
+        hoje = datetime.now()
+        cont = 0
+
+        while hoje > self.data_final(2022,1,1):
+            dia = datetime.strftime(hoje, "%d")
+            mes = datetime.strftime(hoje, "%m")
+            ano = datetime.strftime(hoje, "%y")
+
+            html = self.conect_requisicao(
+                "https://www.cgesp.org/v3/alagamentos.jsp?dataBusca={0}%2F{1}%2F20{2}&enviaBusca=Buscar".format(dia,
+                                                                                                                mes,
+                                                                                                                ano))
+            if html == 'Stop-Work':
+                continue
+
+            soup = BeautifulSoup(html, 'html.parser')
+            classe_html = soup.find('div', class_="content")
+            texto_div = classe_html.text.strip()
+
+            data = '20{0}.{1}.{2}'.format(ano, mes, dia)
+            hoje -= timedelta(days=1)
+
+            if texto_div == 'Não há registros de alagemtnos para essa data.':
+                continue
+            cont += 1
+            texto_geral = soup.find_all('table', {'class': re.compile('tb-pontos-de-alagamentos')})
+            bairro_texto = classe_html.find_all('td',
+                                                {'class': re.compile('bairro arial-bairros-alag linha-pontilhada')})
+
+            for x in range(0, len(bairro_texto)):
+                bairro = bairro_texto[x].text.strip()
+                lista_html = texto_geral[x].find_all('ul')
+
+                for j in range(0, len(lista_html)):
+                    icone = lista_html[j].find('li').get('title')
+                    referencia = lista_html[j].find('li', {'arial-descr-alag col-local'})
+                    hr_inicio = referencia.text[3:8]
+                    avenida = referencia.text[16:]
+
+                    registro = [bairro, data, icone, hr_inicio, avenida]
+
+                    self.salvar_arquivo(registro, cont)
+
+    
+
 
 if __name__ == '__main__':
-    datafinal = datetime(year = 2022, month = 1, day =1)
-    hoje = datetime.now()
-    cont = 0
-    while (hoje > datafinal):
-        dia = datetime.strftime(hoje, "%d")
-        mes = datetime.strftime(hoje, "%m")
-        ano = datetime.strftime(hoje, "%y")
-
-        ext = Extracao()
-        html = ext.conect_requisicao("https://www.cgesp.org/v3/alagamentos.jsp?dataBusca={0}%2F{1}%2F20{2}&enviaBusca=Buscar".format(dia,mes,ano))
-
-        if html == 'Stop-Work':
-            continue
-
-        soup = BeautifulSoup(html, 'html.parser')
-        classe_html = soup.find('div', class_="content")
-        texto_div = classe_html.text.strip()
-
-        data = '20{0}.{1}.{2}'.format(ano, mes, dia)
-        hoje -= timedelta(days=1)
-
-        if texto_div == 'Não há registros de alagemtnos para essa data.':
-            continue
-        cont +=1
-        texto_geral = soup.find_all('table', {'class': re.compile('tb-pontos-de-alagamentos')})
-        bairro_texto = classe_html.find_all('td', {'class': re.compile('bairro arial-bairros-alag linha-pontilhada')})
-
-        for x in range(0, len(bairro_texto)):
-            bairro = bairro_texto[x].text.strip()
-            lista_html = texto_geral[x].find_all('ul')
-
-            for j in range(0, len(lista_html)):
-                icone = lista_html[j].find('li').get('title')
-                referencia = lista_html[j].find('li', {'arial-descr-alag col-local'})
-                hr_inicio = referencia.text[3:8]
-                avenida = referencia.text[16:]
-
-                registro = [bairro, data, icone, hr_inicio, avenida]
-
-                ext.salvar_arquivo(registro, cont)
+    etx = Extracao()
+    etx.executar_extracao()
     pass
