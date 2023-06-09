@@ -111,6 +111,7 @@ class LeituraArquivo:
 class BancoDeDados:
 
     def __init__(self, host_name, user_name, user_password, db_name):
+
         connection = None
         try:
             connection = mysql.connector.connect(
@@ -134,10 +135,10 @@ class BancoDeDados:
         except Error:
             print(f'Erro: {Error}')
 
-    def execute_lista_db(self, sql, comando):
+    def execute_lista_db(self, comando, lista):
         cursor = self._connection.cursor()
         try:
-            cursor.executemany(sql, comando)
+            cursor.executemany(lista, comando)
             self._connection.commit()
             print('Commit executado.')
         except Error:
@@ -156,15 +157,25 @@ class BancoDeDados:
         except Error:
             print(f'Erro: {Error}')
 
+    def inserirDocumento(self, nameFile, comando):
+        tt = LeituraArquivo(nameFile)
+        if nameFile[-4:] == '.txt':
+            limpaQuebra = [linha.rstrip('\n') for linha in tt]
+            inserir = [linha.split(';') for linha in limpaQuebra]
+            self.execute_lista_db(comando, inserir)
+            print('Arquivo Inserido')
+        else:
+            print('Deu erro aqui')
+
 
 if __name__ == '__main__':
-    #name = 'Data_CGESP1.txt'
+    name = 'Data_CGESP1.txt'
     #ano = 2022
     #mes = 1
     #dia = 1
     #etx = Extracao(name, ano, mes, dia)
     #etx.executar_extracao()
-    #tt = LeituraArquivo(name)
+    tt = LeituraArquivo(name)
     #c= 0
     #for file in tt:
     #    print(file)
@@ -175,7 +186,9 @@ if __name__ == '__main__':
     INNER JOIN bd_tcc.registros AS re
     	ON al.Data_alag = re.DATA_MEDICAO
     WHERE hour(al.hora_inicio) = hour(re.hr_medicao);'''
-    jr = teste.ler_db(lendo_db)
-    print(jr)
+    #jr = teste.ler_db(lendo_db)
+    #print(jr)
+    comando = ('INSERT INTO alagamentos (Bairro, Data_alag, Status, Hora_Inicio, Endereco) VALUES (%s,%s,%s,%s,%s)')
+    teste.inserirDocumento(name, comando)
 
     pass
