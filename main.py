@@ -1,25 +1,25 @@
 from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
 import re
+import time
+from urllib.request import urlopen, Request
+from urllib.error import HTTPError
+import mysql.connector
+from mysql.connector import Error
 
 
 class Extracao:
 
     def __init__(self, nome_arquivo, year, month, day):
-        from datetime import datetime
 
         self._nome_arquivo = nome_arquivo
         self._datafinal = datetime(year=year, month=month, day=day)
 
     @staticmethod
     def tempo_pause(tempo):
-        import time
         return time.sleep(tempo)
 
     def conect_requisicao(self, url):
-        from urllib.request import urlopen, Request
-        from urllib.error import HTTPError
-
         headers = \
             {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) "
@@ -108,17 +108,74 @@ class LeituraArquivo:
         self._count += 1
         return element
 
+class BancoDeDados:
+
+    def __init__(self, host_name, user_name, user_password, db_name):
+        connection = None
+        try:
+            connection = mysql.connector.connect(
+                host = host_name,
+                user = user_name,
+                password = user_password,
+                database = db_name
+            )
+            self._connection = connection
+            print('MySQL Conectado')
+        except Error:
+            print(f'Erro: {Error}')
+
+    def executar_db(self, comando):
+        cursor = self._connection.cursor()
+        try:
+            cursor.execute(comando)
+            self._connection.commit()
+            print('Commit Executado')
+
+        except Error:
+            print(f'Erro: {Error}')
+
+    def execute_lista_db(self, sql, comando):
+        cursor = self._connection.cursor()
+        try:
+            cursor.executemany(sql, comando)
+            self._connection.commit()
+            print('Commit executado.')
+        except Error:
+            print(f'Erro: {Error}')
+
+    def ler_db(self, comando):
+        cursor = self._connection.cursor()
+        resultado = None
+        try:
+            cursor.execute(comando)
+            resultado = cursor.fetchall()
+            print('Fetchall executado')
+
+            return resultado
+
+        except Error:
+            print(f'Erro: {Error}')
+
 
 if __name__ == '__main__':
-    name = 'Data_CGESP1.txt'
-    ano = 2022
-    mes = 1
-    dia = 1
+    #name = 'Data_CGESP1.txt'
+    #ano = 2022
+    #mes = 1
+    #dia = 1
     #etx = Extracao(name, ano, mes, dia)
     #etx.executar_extracao()
-    tt = LeituraArquivo(name)
-    c= 0
-    for file in tt:
-        print(file)
+    #tt = LeituraArquivo(name)
+    #c= 0
+    #for file in tt:
+    #    print(file)
+    lista_db = ['localhost','root','5747','bd_tcc']
+    teste = BancoDeDados(lista_db[0], lista_db[1], lista_db[2], lista_db[3])
+    lendo_db = '''SELECT al.bairro, al.Data_alag, al.status, al.hora_inicio, al.endereco, re.precipitacao, re.pre_atm_nivel_estacao, re.PRE_ATM_NIVEL_MAR, re.PRE_MAX, re.PRE_MIN, re.RADIACAO_GLOBAL, re.TEMP_CPU_ESTACAO , re.TEMP_AR, re.TEMP_ORVALHO, re.TEMP_MAX, re.TEMP_MIN, re.TEMP_ORVALHO_MAX, re.TEMP_ORVALHO_MIN, re.TENSAO_BATERIA_ESTACAO, re.UMD_MAX, re.UMD_MIN, re.UMD_RELATIVA_AR, re.VEN_DIR, re.VEN_RAJ, re.VEN_VEL                                            
+    FROM bd_tcc.alagamentos as al
+    INNER JOIN bd_tcc.registros AS re
+    	ON al.Data_alag = re.DATA_MEDICAO
+    WHERE hour(al.hora_inicio) = hour(re.hr_medicao);'''
+    jr = teste.ler_db(lendo_db)
+    print(jr)
 
     pass
