@@ -190,5 +190,4 @@ if __name__ == '__main__':
     #print(jr)
     comando = ('INSERT INTO alagamentos (Bairro, Data_alag, Status, Hora_Inicio, Endereco) VALUES (%s,%s,%s,%s,%s)')
     teste.inserirDocumento(name, comando)
-
     pass
