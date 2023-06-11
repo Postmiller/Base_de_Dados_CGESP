@@ -169,18 +169,18 @@ class BancoDeDados:
 
 
 if __name__ == '__main__':
-    name = 'Data_CGESP1.txt'
+    #name = 'Data_CGESP1.txt'
     #ano = 2022
     #mes = 1
     #dia = 1
     #etx = Extracao(name, ano, mes, dia)
     #etx.executar_extracao()
-    tt = LeituraArquivo(name)
+    #tt = LeituraArquivo(name)
     #c= 0
     #for file in tt:
     #    print(file)
-    lista_db = ['localhost','root','5747','bd_tcc']
-    teste = BancoDeDados(lista_db[0], lista_db[1], lista_db[2], lista_db[3])
+    #lista_db = ['localhost','root','5747','bd_tcc']
+    #teste = BancoDeDados(lista_db[0], lista_db[1], lista_db[2], lista_db[3])
     lendo_db = '''SELECT al.bairro, al.Data_alag, al.status, al.hora_inicio, al.endereco, re.precipitacao, re.pre_atm_nivel_estacao, re.PRE_ATM_NIVEL_MAR, re.PRE_MAX, re.PRE_MIN, re.RADIACAO_GLOBAL, re.TEMP_CPU_ESTACAO , re.TEMP_AR, re.TEMP_ORVALHO, re.TEMP_MAX, re.TEMP_MIN, re.TEMP_ORVALHO_MAX, re.TEMP_ORVALHO_MIN, re.TENSAO_BATERIA_ESTACAO, re.UMD_MAX, re.UMD_MIN, re.UMD_RELATIVA_AR, re.VEN_DIR, re.VEN_RAJ, re.VEN_VEL                                            
     FROM bd_tcc.alagamentos as al
     INNER JOIN bd_tcc.registros AS re
@@ -188,6 +188,13 @@ if __name__ == '__main__':
     WHERE hour(al.hora_inicio) = hour(re.hr_medicao);'''
     #jr = teste.ler_db(lendo_db)
     #print(jr)
-    comando = ('INSERT INTO alagamentos (Bairro, Data_alag, Status, Hora_Inicio, Endereco) VALUES (%s,%s,%s,%s,%s)')
-    teste.inserirDocumento(name, comando)
+    #comando = ('INSERT INTO alagamentos (Bairro, Data_alag, Status, Hora_Inicio, Endereco) VALUES (%s,%s,%s,%s,%s)')
+    #teste.inserirDocumento(name, comando)
+    df = pd.read_csv('dados_A771_H_2018-03-13_2023-04-24.csv', sep=";", decimal=',', skiprows=10)
+    df = df.iloc[:, :-1]
+    df = df.where((pd.notnull(df)), "Null")
+    array = df.values.tolist()
+    array = limpa_array(array)
+
+
     pass
