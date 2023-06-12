@@ -169,10 +169,10 @@ class BancoDeDados:
 
 
 if __name__ == '__main__':
-    #name = 'Data_CGESP1.txt'
-    #ano = 2022
-    #mes = 1
-    #dia = 1
+    name = 'Data_CGESP1.txt'
+    ano = 2022
+    mes = 1
+    dia = 1
     #etx = Extracao(name, ano, mes, dia)
     #etx.executar_extracao()
     #tt = LeituraArquivo(name)
@@ -190,11 +190,7 @@ if __name__ == '__main__':
     #print(jr)
     #comando = ('INSERT INTO alagamentos (Bairro, Data_alag, Status, Hora_Inicio, Endereco) VALUES (%s,%s,%s,%s,%s)')
     #teste.inserirDocumento(name, comando)
-    df = pd.read_csv('dados_A771_H_2018-03-13_2023-04-24.csv', sep=";", decimal=',', skiprows=10)
-    df = df.iloc[:, :-1]
-    df = df.where((pd.notnull(df)), "Null")
-    array = df.values.tolist()
-    array = limpa_array(array)
+
 
 
     pass
